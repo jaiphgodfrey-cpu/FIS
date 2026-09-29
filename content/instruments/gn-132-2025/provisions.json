@@ -1,0 +1,617 @@
+[
+  {
+    "id": "schedule-8-of-gn132",
+    "type": "schedule",
+    "title": "Schedule 8 of GN 132/2025 - Fees for recreation in a forest reserve",
+    "text": null,
+    "note": "Official text not located online as of 27 September 2026. Recreation fees carried in the PWA data block are preserved in dist output; obtain the printed Gazette text to fill this provision.",
+    "verification": {
+      "status": "unverified-from-pwa",
+      "needsCheckAgainst": "printed Gazette text of GN No. 132 of 2025"
+    }
+  },
+  {
+    "id": "schedule-14-of-gn132",
+    "type": "schedule",
+    "title": "Schedule 14 of GN 132/2025 - Classification, fee rates for permits, licences or certificate for felling trees, collecting forest produce and other services",
+    "text": null,
+    "structured": {
+      "logRates": [
+        {
+          "cls": "IA",
+          "rate": 350000
+        },
+        {
+          "cls": "IB",
+          "rate": 290000
+        },
+        {
+          "cls": "II",
+          "rate": 195000
+        },
+        {
+          "cls": "III",
+          "rate": 145000
+        },
+        {
+          "cls": "IV",
+          "rate": 100000
+        }
+      ],
+      "otherRates": [
+        {
+          "group": "Other produce (natural forest)",
+          "items": [
+            [
+              "Poles, 5 to 10 cm butt",
+              "each",
+              1600
+            ],
+            [
+              "Poles, over 10 to 20 cm butt",
+              "each",
+              2400
+            ],
+            [
+              "Withies, under 5 cm butt",
+              "per 30 (score)",
+              4000
+            ],
+            [
+              "Firewood",
+              "per stacked m3",
+              6500
+            ],
+            [
+              "Charcoal",
+              "per kg",
+              250
+            ],
+            [
+              "Fibres and raffia",
+              "per kg",
+              100
+            ],
+            [
+              "Bamboo, natural forest, above 5 cm",
+              "per score of 20",
+              10000
+            ],
+            [
+              "Bamboo, natural forest, below 5 cm",
+              "per score of 20",
+              5000
+            ],
+            [
+              "Bamboo, plantation, above 5 cm",
+              "per score of 20",
+              20000
+            ],
+            [
+              "Bamboo, plantation, below 5 cm",
+              "per score of 20",
+              12000
+            ],
+            [
+              "Mangrove trees over 20 cm (as Class IB log)",
+              "per m3",
+              290000
+            ],
+            [
+              "Mangrove poles, Class I (15 to 20 cm)",
+              "per score of 20",
+              30000
+            ],
+            [
+              "Mangrove poles, Class II (10 to 14.9 cm)",
+              "per score of 20",
+              24000
+            ],
+            [
+              "Mangrove poles, Class III (5 to 9.9 cm)",
+              "per score of 20",
+              18000
+            ],
+            [
+              "Mangrove poles, Class IV (below 5 cm)",
+              "per score of 20",
+              12000
+            ],
+            [
+              "Mangrove ribs, branches or cuttings",
+              "per piece",
+              6000
+            ],
+            [
+              "Gum arabica",
+              "per kg",
+              300
+            ],
+            [
+              "Pine resin (except patula)",
+              "per kg",
+              650
+            ],
+            [
+              "Pinus patula resin",
+              "per kg",
+              550
+            ]
+          ]
+        },
+        {
+          "group": "Applications and passes",
+          "items": [
+            [
+              "Application fee, any permit",
+              "each",
+              5000
+            ],
+            [
+              "Harvest application, company with Government contract",
+              "year",
+              200000
+            ],
+            [
+              "Harvest application, other, installed capacity 1 to 1,000 m3",
+              "year",
+              100000
+            ],
+            [
+              "Harvest application, other, installed capacity 1,001 to 3,000 m3",
+              "year",
+              120000
+            ],
+            [
+              "Harvest application, other, installed capacity 3,001 to 5,000 m3",
+              "year",
+              140000
+            ],
+            [
+              "Harvest application, other, installed capacity over 5,000 m3",
+              "year",
+              150000
+            ],
+            [
+              "Transit pass, plantation produce (not charcoal), up to 7 ton",
+              "each",
+              7000
+            ],
+            [
+              "Transit pass, plantation produce (not charcoal), over 7 ton",
+              "each",
+              15000
+            ],
+            [
+              "Transit pass, natural forest produce (not charcoal), up to 7 ton",
+              "each",
+              15000
+            ],
+            [
+              "Transit pass, natural forest produce (not charcoal), over 7 ton",
+              "each",
+              20000
+            ],
+            [
+              "Transit pass, charcoal, up to 7 ton",
+              "each",
+              7000
+            ],
+            [
+              "Transit pass, charcoal, over 7 ton",
+              "each",
+              15000
+            ]
+          ]
+        },
+        {
+          "group": "Dealer registration, per site per year",
+          "items": [
+            [
+              "Registration for harvesting, natural forest trees",
+              "year",
+              270000
+            ],
+            [
+              "Certificate of registration, woody produce (timber, poles, withies)",
+              "year",
+              200000
+            ],
+            [
+              "Certificate of registration, non-woody produce",
+              "year",
+              100000
+            ],
+            [
+              "Firewood business",
+              "year",
+              300000
+            ],
+            [
+              "Charcoal business, small (capital TZS 50,000 to 500,000)",
+              "year",
+              50000
+            ],
+            [
+              "Charcoal business, medium (capital TZS 500,001 to 2,000,000)",
+              "year",
+              100000
+            ],
+            [
+              "Charcoal business, large (capital above TZS 2,000,000)",
+              "year",
+              300000
+            ],
+            [
+              "Charcoal and firewood business, combined",
+              "year",
+              500000
+            ],
+            [
+              "Wood industries, installed capacity up to 20,000 m3",
+              "year",
+              400000
+            ],
+            [
+              "Wood industries, installed capacity above 20,000 m3",
+              "year",
+              800000
+            ]
+          ]
+        }
+      ],
+      "speciesClassification": [
+        {
+          "cls": "IA",
+          "bot": "Dalbergia melanoxylon",
+          "vern": "East Africa blackwood, mpingo, mugembe"
+        },
+        {
+          "cls": "IA",
+          "bot": "Diospyros ebenum / mespiliformis",
+          "vern": "ebony, mgiriti, msindi, mnumbuhi, mkulvi"
+        },
+        {
+          "cls": "IA",
+          "bot": "Combretum stuhlmanii",
+          "vern": "mperamwitu, mguruwe, mkwaya"
+        },
+        {
+          "cls": "IA",
+          "bot": "Olea (all spp.)",
+          "vern": "loliondo, mchiyo, mshisho, brown olive, mzira, E.A. olive, mtagala, mwalambo, mkimba-kubwa"
+        },
+        {
+          "cls": "IA",
+          "bot": "Entandophragma (all spp.)",
+          "vern": "mrie, mongo, muwondo, mbokoboko, mkalikili"
+        },
+        {
+          "cls": "IA",
+          "bot": "Milicia excelsa",
+          "vern": "mvule, mkongola, iroko"
+        },
+        {
+          "cls": "IA",
+          "bot": "Khaya anthotheca",
+          "vern": "mkangazi, mwamiovu"
+        },
+        {
+          "cls": "IA",
+          "bot": "Juniperus procera",
+          "vern": "cedar, mtarakwa, mwangati"
+        },
+        {
+          "cls": "IA",
+          "bot": "Brachystegia bussei / Brachystegia manga",
+          "vern": "mtundu"
+        },
+        {
+          "cls": "IA",
+          "bot": "Scorodophleus fischeri",
+          "vern": "muandwe"
+        },
+        {
+          "cls": "IA",
+          "bot": "Terminalia brownii",
+          "vern": "mbarao"
+        },
+        {
+          "cls": "IA",
+          "bot": "Terminalia torulosa",
+          "vern": "mkoko"
+        },
+        {
+          "cls": "IA",
+          "bot": "Stereospermum kunthianum",
+          "vern": "mpindibago"
+        },
+        {
+          "cls": "IA",
+          "bot": "Pterocarpus tinctorius",
+          "vern": "mkurungu"
+        },
+        {
+          "cls": "IB",
+          "bot": "Pterocarpus (all spp. except P. tinctorius)",
+          "vern": "mninga, mkula, mngubi, mtumbati mtoni, mningamaji"
+        },
+        {
+          "cls": "IB",
+          "bot": "Beilschmiedia kweo",
+          "vern": "mfimbo, mkweo, mkanta"
+        },
+        {
+          "cls": "IB",
+          "bot": "Brachylaena huillensis",
+          "vern": "muhuhu, mhugwe, mkarambati"
+        },
+        {
+          "cls": "IB",
+          "bot": "Mangrove (all spp.)",
+          "vern": "mikoko"
+        },
+        {
+          "cls": "IB",
+          "bot": "Swartzia madagascariensis",
+          "vern": "paurosa, ksanda, msekeseke"
+        },
+        {
+          "cls": "IB",
+          "bot": "Allanblackia stuhlmannii",
+          "vern": "mkimbo"
+        },
+        {
+          "cls": "IB",
+          "bot": "Breonadia salicina",
+          "vern": "adina, mgusia, mdogowe, mgwina"
+        },
+        {
+          "cls": "IB",
+          "bot": "Cephalosphaera usambarensis",
+          "vern": "mtambara, mtambaa"
+        },
+        {
+          "cls": "IB",
+          "bot": "Fagaropsis angolensis",
+          "vern": "mtua, mkunguni, mtongoti"
+        },
+        {
+          "cls": "IB",
+          "bot": "Hagenia abyssinica",
+          "vern": "hagenia, mwanga, liziluzi"
+        },
+        {
+          "cls": "IB",
+          "bot": "Markhamia (all spp.)",
+          "vern": "mtalawanda"
+        },
+        {
+          "cls": "IB",
+          "bot": "Newtonia (all spp.)",
+          "vern": "mshashita, mdadauka, mkufi, mpung"
+        },
+        {
+          "cls": "IB",
+          "bot": "Ocotea usambarensis",
+          "vern": "camphorwood, mkulo, mseri, muheti, maasi"
+        },
+        {
+          "cls": "IB",
+          "bot": "Pseudolachnostylis maprouneifolia",
+          "vern": "msolo"
+        },
+        {
+          "cls": "IB",
+          "bot": "Afzelia quanzensis",
+          "vern": "afzelia, mkora, mkongo, mafu, mfuru"
+        },
+        {
+          "cls": "IB",
+          "bot": "Baphia kirkii",
+          "vern": "mkuruti, mkuranga"
+        },
+        {
+          "cls": "II",
+          "bot": "Syzygium owariense",
+          "vern": "ihugu, waterberry"
+        },
+        {
+          "cls": "II",
+          "bot": "Faurea saligna",
+          "vern": "mhenyi"
+        },
+        {
+          "cls": "II",
+          "bot": "Parinari curatellifolia",
+          "vern": "mubule, mule, msambula, msaula"
+        },
+        {
+          "cls": "II",
+          "bot": "Podocarpus (all spp.)",
+          "vern": "mse, msisimu, mtokosi"
+        },
+        {
+          "cls": "II",
+          "bot": "Syzygium cuminii",
+          "vern": "mzambarau, mvengi"
+        },
+        {
+          "cls": "II",
+          "bot": "Vitex keniensis",
+          "vern": "mfudo"
+        },
+        {
+          "cls": "II",
+          "bot": "Berchemia discolor",
+          "vern": "bird plum, mgandu, mnago, mkuni, okoo, nyabumbu"
+        },
+        {
+          "cls": "II",
+          "bot": "Mimusops kummel",
+          "vern": "muhulu, mgoma"
+        },
+        {
+          "cls": "II",
+          "bot": "Chrysophyllum (all spp.)",
+          "vern": "mberimberi, mfu-mulembelembe"
+        },
+        {
+          "cls": "II",
+          "bot": "Albizia (all spp.)",
+          "vern": "mfurangi, mtanga, mdurasi, mvimbafuru, mukinga, omurere, mshai, mboromo, mhenge"
+        },
+        {
+          "cls": "II",
+          "bot": "Erythrophleum guineense",
+          "vern": "bangawanga, mjeringwe"
+        },
+        {
+          "cls": "II",
+          "bot": "Spirostachys africana",
+          "vern": "misanda, mwavi, mbaraka, mkarati, mkola"
+        },
+        {
+          "cls": "II",
+          "bot": "Amblygonocarpus angolensis",
+          "vern": "msaraka, muharaka, mwaraka"
+        },
+        {
+          "cls": "II",
+          "bot": "Acacia nigrescens",
+          "vern": "mkambala, mtambara, muhama"
+        },
+        {
+          "cls": "II",
+          "bot": "Julbernardia globiflora / Julbernardia paniculata",
+          "vern": "muba, mvuva, mtondo, mtondoro, mwangati, msima, mgombo, muwa, mpanate"
+        },
+        {
+          "cls": "II",
+          "bot": "Brachystegia tamarindoides",
+          "vern": "mseni"
+        },
+        {
+          "cls": "II",
+          "bot": "Brachystegia utilis",
+          "vern": "msangana"
+        },
+        {
+          "cls": "II",
+          "bot": "Brachystegia (all spp.)",
+          "vern": "mtundu, myombo, mkuti"
+        },
+        {
+          "cls": "II",
+          "bot": "Hymenaea verrucosa",
+          "vern": "mnangu, mkongodeka"
+        },
+        {
+          "cls": "II",
+          "bot": "Millettia stuhlmannii",
+          "vern": "pangapanga, mpande"
+        },
+        {
+          "cls": "II",
+          "bot": "Pericopsis angolensis",
+          "vern": "mbanga, muwanga, afromosia"
+        },
+        {
+          "cls": "III",
+          "bot": "Morus lactea",
+          "vern": "E.A. mulberry, kumbu, mkuzufunta"
+        },
+        {
+          "cls": "III",
+          "bot": "Ficalhoa laurifolia",
+          "vern": "iseta, muta"
+        },
+        {
+          "cls": "III",
+          "bot": "Casipourea malosana",
+          "vern": "pillar wood, ndiri, msadora"
+        },
+        {
+          "cls": "III",
+          "bot": "Lovoa brownii / swynnertonii",
+          "vern": "nkoba, Uganda walnut, msau, mukusu, Kilimanjaro mahogany"
+        },
+        {
+          "cls": "III",
+          "bot": "Cordyla africana",
+          "vern": "mroma, mgwata, mlingalinga, mzingati"
+        },
+        {
+          "cls": "III",
+          "bot": "Ekebergia ruepelliana",
+          "vern": "musizi, msisi, riwe, msimbi, ol-mikump"
+        },
+        {
+          "cls": "III",
+          "bot": "Xymalos monospora",
+          "vern": "mburumo, dimu, mkalikisumu, lemonwood"
+        },
+        {
+          "cls": "III",
+          "bot": "Faurea (all spp.)",
+          "vern": "mifuka, msisi, lisega"
+        },
+        {
+          "cls": "III",
+          "bot": "Rapanea rhodondendroides",
+          "vern": "mlimang'ombe, mwasa, mshiwizo, kidongashawa"
+        },
+        {
+          "cls": "III",
+          "bot": "Pteleopsis myrtifolia",
+          "vern": "mwindi, mnepa, mparu, mgofu, makwenzi"
+        },
+        {
+          "cls": "III",
+          "bot": "Fagara amaniensis",
+          "vern": "Amani satinwood, mfarakumbi, mfuakumbi"
+        },
+        {
+          "cls": "III",
+          "bot": "Maesopsis eminii (natural forests)",
+          "vern": "muhumula, msila"
+        },
+        {
+          "cls": "III",
+          "bot": "Commiphora lindensis",
+          "vern": "mbambaa"
+        },
+        {
+          "cls": "III",
+          "bot": "Commiphora englerii",
+          "vern": "mkolola"
+        },
+        {
+          "cls": "III",
+          "bot": "Ozoroa insignis",
+          "vern": "mwembepori"
+        },
+        {
+          "cls": "III",
+          "bot": "Amblygonocarpus andongensis",
+          "vern": "mgongachuma"
+        },
+        {
+          "cls": "III",
+          "bot": "Bombax rhodognaphalon",
+          "vern": "msufi mwitu, mfume"
+        },
+        {
+          "cls": "III",
+          "bot": "Burkea africana",
+          "vern": "mkarati, magando, msangala"
+        }
+      ]
+    },
+    "note": "Structured rate tables carried verbatim from the PWA v0.6 data block. Includes species reclassifications made by GN 132/2025, e.g. Afzelia quanzensis moved from Class IA to Class IB.",
+    "verification": {
+      "status": "unverified-from-pwa",
+      "needsCheckAgainst": "printed Gazette text of GN No. 132 of 2025"
+    }
+  }
+]
