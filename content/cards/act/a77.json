@@ -1,0 +1,22 @@
+{
+  "id": "a77",
+  "law": "Forest Act",
+  "ref": "s. 77",
+  "title": "Power to charge fees",
+  "scen": [
+    "licence",
+    "permit"
+  ],
+  "rule": "The Minister determines and prescribes which services and permits carry a fee, and the rate for each.",
+  "points": [
+    "This is the legal basis for the application, registration and pass fees in the Royalties tab (the 'Applications and passes' and 'Dealer registration' groups), which are set out in detail by regulation, not the Act itself."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a78",
+    "g5"
+  ],
+  "src": "Act p. 277",
+  "flag": null
+}

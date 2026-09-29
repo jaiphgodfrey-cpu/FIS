@@ -1,0 +1,26 @@
+{
+  "id": "a98",
+  "law": "Forest Act",
+  "ref": "s. 98",
+  "title": "Orders after conviction",
+  "scen": [
+    "powers",
+    "penal"
+  ],
+  "rule": "On conviction the court may also order:",
+  "points": [
+    "Cancellation of permits and a bar on new ones.",
+    "Forfeiture of the produce and of items used in the offence.",
+    "Compensation for damaged produce and Government property.",
+    "Up to ten times the royalties and fees that would have been due.",
+    "Removal of buildings, crops or livestock from a reserve.",
+    "Seizure and storage costs."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a95"
+  ],
+  "src": "Act pp. 289 to 291",
+  "flag": null
+}

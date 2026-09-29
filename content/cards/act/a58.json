@@ -1,0 +1,33 @@
+{
+  "id": "a58",
+  "law": "Forest Act",
+  "ref": "ss. 58, 59",
+  "title": "Export certificates and restrictions on export",
+  "scen": [
+    "sell",
+    "move",
+    "penal"
+  ],
+  "rule": "Timber or other forest produce cannot be exported without a valid export certificate from the Director, except where the Minister has gazetted an exemption.",
+  "points": [
+    "For graded timber, the certificate is only valid if the timber's origin and grade match the marks on it; for other produce, it must be certified as meeting prescribed quality standards (s.58(2) to (3)).",
+    "A certificate is in the prescribed form and expires three months after issue (s.58(4)).",
+    "Export must go through a place or port of exit the Director has gazetted for that purpose, and produce must leave in the same state it was in when the certificate was issued (s.59(1) to (2)).",
+    "The Director may cancel a certificate if the produce is later found not to be in that state, unless the holder proves this was beyond their control (s.59(3) to (4)).",
+    "Signing, issuing or using a document purporting to be an export certificate, knowing or believing it false, is prohibited (s.59(5))."
+  ],
+  "checks": [
+    "Valid, unexpired certificate",
+    "Grade/origin marks match (timber)",
+    "Quality certification (other produce)",
+    "Gazetted place or port of exit used",
+    "State of produce unchanged since issue"
+  ],
+  "penalty": null,
+  "related": [
+    "a89",
+    "a60"
+  ],
+  "src": "Act pp. 264 to 265",
+  "flag": "Penalty for breach of ss.58 to 59 not yet pinned to a specific offence section; likely falls under s.89(g) (export without a valid certificate)."
+}

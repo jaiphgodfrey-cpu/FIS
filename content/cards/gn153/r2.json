@@ -1,0 +1,25 @@
+{
+  "id": "r2",
+  "law": "Regulations 2004",
+  "ref": "regs 4 to 6",
+  "title": "Measuring, minimum girth, cutting height",
+  "scen": [
+    "reserve",
+    "licence"
+  ],
+  "rule": "Trees must be measured before cutting or removal, must meet a minimum girth, and must be cut low.",
+  "points": [
+    "Measure and record log volume for felled trees and standing volume for standing trees, or count bundles, head-loads or weight.",
+    "Minimum girth is in the Third Schedule. The Director sets it for species not listed.",
+    "Cut no higher than 15 cm above the ground, or just above a buttress or swelling."
+  ],
+  "checks": [
+    "Measurement records",
+    "Girth against the schedule",
+    "Stump height"
+  ],
+  "penalty": null,
+  "related": [],
+  "src": "GN 153 p. 9",
+  "flag": "The Third Schedule girth table is not extracted yet."
+}

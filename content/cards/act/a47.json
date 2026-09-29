@@ -1,0 +1,26 @@
+{
+  "id": "a47",
+  "law": "Forest Act",
+  "ref": "ss. 41, 47, 48",
+  "title": "Community forest reserves and Group rights",
+  "scen": [
+    "reserve",
+    "permit"
+  ],
+  "rule": "A community forest reserve is managed by a Group (an association of people, not necessarily all in one village) rather than a village council alone.",
+  "points": [
+    "Group members' basic rights and duties, unless their agreement with the village council says otherwise: the right to exercise existing rights to enter, occupy, use and harvest forest produce jointly with other Group members, sustainably and under applicable by-laws, rules or agreements; the duty to comply with licence conditions for any activity in the reserve (s.47).",
+    "Supervision and monitoring of a community forest reserve follows the same provisions (ss.8 and 41) that apply to other reserve management (s.48(1))."
+  ],
+  "checks": [
+    "Is there a Group agreement with the village council",
+    "What rights/duties apply",
+    "Licence conditions for the activity"
+  ],
+  "penalty": null,
+  "related": [
+    "a32"
+  ],
+  "src": "Act pp. 236 to 238, 246 to 248",
+  "flag": "s.42 to 46 (Group formation and registration) and ss.34 to 39 (village gazetting steps, national/local authority reserve consent) not separately carded yet."
+}

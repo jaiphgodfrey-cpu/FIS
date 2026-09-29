@@ -1,0 +1,26 @@
+{
+  "id": "gn-153-2004",
+  "citation": "Government Notice No. 153 of 2004 — The Forest Regulations, 2004 (made under s. 106(1) of the Forest Act, No. 14 of 2002)",
+  "renumberingNote": "Cites s. 106(1) as printed at publication (Act No. 14 of 2002 numbering). In Cap. 323 R.E. 2023 the regulation-making power appears at s. 107 (see card a107). The as-printed citation is kept; it is not modernised.",
+  "kind": "principal-regulations",
+  "chain": "A",
+  "published": "2004-05-21",
+  "commencement": null,
+  "commencementNote": "Regulation 1 provides that the Regulations come into operation on the date of their publication; recorded as publication-based but the commencement date itself is not separately asserted.",
+  "status": "in-force-as-amended",
+  "signature": "Zakia Hamdani Meghji, Minister for Natural Resources and Tourism, Dar es Salaam, April 2004",
+  "provisionsFile": "provisions.json",
+  "provisionIds": { "regulations": "reg-1..reg-59", "schedules": "schedule-1..schedule-39" },
+  "knownGaps": [
+    "Schedules 22 to 26 are missing from the scanned transcript (text: null in provisions.json); they exist in the printed Gazette and must be obtained.",
+    "Schedule 27 is only partially captured by the scan.",
+    "Regulations 55 to 59 keep raw table-row text as printed in the scan."
+  ],
+  "amendedBy": ["gn-1132-2011", "gn-324-2015", "gn-255-2017", "gn-59-2022", "gn-132-2025"],
+  "events": [],
+  "verification": {
+    "status": "unverified-transcript",
+    "needsCheckAgainst": "printed Gazette of the United Republic of Tanzania, GN No. 153 of 21/5/2004",
+    "source": "OCR transcript of the published scan (132 pages); see content/gn-153-2004-transcript.md and source-evidence/checksums.json"
+  }
+}

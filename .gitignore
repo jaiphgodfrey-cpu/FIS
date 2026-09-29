@@ -1,0 +1,5 @@
+dist/
+releases/content-manifest.json
+node_modules/
+*.log
+.DS_Store

@@ -1,0 +1,34 @@
+{
+  "id": "a51",
+  "law": "Forest Act",
+  "ref": "s. 51",
+  "title": "Granting a permit",
+  "scen": [
+    "permit"
+  ],
+  "rule": "The Director or forest manager must grant, grant with conditions, or refuse within 60 days.",
+  "points": [
+    "The Director may extend for complex applications by no more than 90 days.",
+    "They must consider the reserve's purpose, the management plan, the Director's guidelines and advice, and effect on existing rights.",
+    "The permit must state the holder, activity, issue and expiry dates, start date, place, conditions, and fees and royalties.",
+    "Term: up to 33 years if conditions were met, renewable for periods of up to 15 years.",
+    "A permit is personal and not transferable unless a condition allows it.",
+    "Reasons for a refusal must be given in writing."
+  ],
+  "checks": [
+    "Holder and activity",
+    "Dates",
+    "Place",
+    "Conditions",
+    "Fees paid"
+  ],
+  "penalty": null,
+  "related": [
+    "a50",
+    "a52",
+    "a55",
+    "a11"
+  ],
+  "src": "Act pp. 251 to 253",
+  "flag": null
+}

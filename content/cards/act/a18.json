@@ -1,0 +1,24 @@
+{
+  "id": "a18",
+  "law": "Forest Act",
+  "ref": "s. 18",
+  "title": "Environmental Impact Assessment",
+  "scen": [
+    "farm",
+    "reserve"
+  ],
+  "rule": "Some developments in a forest reserve, private forest or sensitive forest area cannot start until an Environmental Impact Assessment is completed to the Director's satisfaction.",
+  "points": [
+    "Commercial logging and forest industry over 5 hectares, or the prescribed area.",
+    "Mining, roads, pipelines, dams, power and telecommunications installations.",
+    "Buildings over 1 hectare.",
+    "Agricultural, aquaculture or horticulture development over 5 hectares."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "g7"
+  ],
+  "src": "Act pp. 194 to 195",
+  "flag": null
+}

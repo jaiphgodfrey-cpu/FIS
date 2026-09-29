@@ -1,0 +1,16 @@
+[
+  {"id": "reserve", "name": "Cutting in a forest reserve"},
+  {"id": "private", "name": "Cutting on private land"},
+  {"id": "farm", "name": "Clearing land for a farm"},
+  {"id": "licence", "name": "Harvest licence and allocation"},
+  {"id": "move", "name": "Moving timber, poles or charcoal"},
+  {"id": "sell", "name": "Selling or storing forest produce"},
+  {"id": "possess", "name": "Found with forest produce"},
+  {"id": "danger", "name": "Dangerous tree"},
+  {"id": "catch", "name": "Catchment areas"},
+  {"id": "permit", "name": "Permits in reserves"},
+  {"id": "powers", "name": "Officer powers and seizure"},
+  {"id": "penal", "name": "Offences and penalties"},
+  {"id": "terms", "name": "Definitions"},
+  {"id": "fire", "name": "Burning or fire risk"}
+]

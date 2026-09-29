@@ -1,0 +1,28 @@
+{
+  "id": "a54",
+  "law": "Forest Act",
+  "ref": "s. 54",
+  "title": "Surrender of a permit",
+  "scen": [
+    "permit"
+  ],
+  "rule": "A permit holder may apply to surrender their permit; the Director or forest manager decides whether to accept it, and may attach conditions.",
+  "points": [
+    "Application is on the prescribed form to the Director or forest manager (s.54(1)).",
+    "Acceptance may be made subject to conditions under s.52, chosen to avoid adverse effects on the forest reserve where the permitted activity took place (s.54(3)).",
+    "A surrender does not limit any civil or criminal liability the holder already incurred before the surrender (s.54(5)(a))."
+  ],
+  "checks": [
+    "Application form submitted",
+    "Any conditions attached to acceptance",
+    "Outstanding liability before surrender"
+  ],
+  "penalty": null,
+  "related": [
+    "a51",
+    "a52",
+    "a53"
+  ],
+  "src": "Act p. 257",
+  "flag": null
+}

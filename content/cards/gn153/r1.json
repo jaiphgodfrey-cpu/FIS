@@ -1,0 +1,28 @@
+{
+  "id": "r1",
+  "law": "Regulations 2004",
+  "ref": "reg 3",
+  "title": "Licence to fell or remove produce",
+  "scen": [
+    "reserve",
+    "licence"
+  ],
+  "rule": "Except under a licence, no one may cut, fell or remove forest produce from a forest reserve. Felling what the Act or Regulations prohibit needs the Director's written permission.",
+  "points": [
+    "The licence form is in the First and Second Schedules.",
+    "The Licensing Officer may order the licensee to afforest or re-forest the felled area."
+  ],
+  "checks": [
+    "Is it a forest reserve",
+    "Licence in the Second Schedule form",
+    "Director's written permission",
+    "Any re-forestation order"
+  ],
+  "penalty": null,
+  "related": [
+    "a26",
+    "a84"
+  ],
+  "src": "GN 153 p. 9",
+  "flag": null
+}

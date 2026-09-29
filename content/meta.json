@@ -1,0 +1,39 @@
+{
+  "version": "0.7-repo",
+  "newest_amendment": "21 Feb 2025 — GN 132 of 2025 (Chain A), which deletes and substitutes the Eighth Schedule (recreation fees) and Fourteenth Schedule (tree classification, royalties and other forestry fees) of the Forest Regulations, 2004. Chain B remains at 31 March 2023 (GN 255 of 2023).",
+  "royalty_status": "current as of GN 132 of 2025",
+  "note": "Reference aid. Cards are paraphrases with page references. Confirm against the gazette before acting. Coverage: 60 distinct sections of the Forest Act Cap. 323 R.E. 2023 are carded (~56% of the 108 operative sections) -- management plans, village/community forest reserves, permit surrender, export/grading/marking, protected plants/animals, fire restrictions and offences, the fee and royalty basis, counterfeiting, entry/information powers, and exemptions. Page citations and penalties have been cross-checked against the Act text (v0.6 pass). Remaining known gaps: ss.19-24 and 27-31 (concessions, declaration, de-reservation -- govern the 'existing rights' defence for cutting in a reserve, the likely real-world follow-up to a84/a26), ss.34-39 and 42-46 (village gazetting steps, Group formation -- flagged on a32/a47), ss.79-83 (Forest Fund -- a94/a95 reference it without a card), s.92 (obstruction), s.106 (research permits, pairs with a67), and ss.96, 99-103, 109.",
+  "chains": {
+    "A": {
+      "principal": "gn-153-2004",
+      "amendments": [
+        "gn-1132-2011",
+        "gn-324-2015",
+        "gn-255-2017",
+        "gn-59-2022",
+        "gn-132-2025"
+      ],
+      "currentRateInstrument": "gn-132-2025"
+    },
+    "B": {
+      "principal": "gn-417-2019",
+      "amendments": [
+        "gn-657-2019",
+        "gn-255-2023"
+      ]
+    }
+  },
+  "cardCounts": {
+    "act": 42,
+    "gn153": 9,
+    "gn417": 12,
+    "total": 63
+  },
+  "scenarioCount": 14,
+  "verificationPolicy": "Every provision carries a verification object. Full legal text is the foundational layer; original wording is preserved; missing or uncertain text is explicitly marked and never reconstructed. Publication, commencement and effective dates are kept distinct and never inferred.",
+  "buildOutputs": [
+    "dist/fis-data.json",
+    "dist/index.html",
+    "releases/content-manifest.json"
+  ]
+}

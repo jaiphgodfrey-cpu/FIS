@@ -1,0 +1,25 @@
+{
+  "id": "a95",
+  "law": "Forest Act",
+  "ref": "s. 95",
+  "title": "Compounding an offence",
+  "scen": [
+    "powers",
+    "penal"
+  ],
+  "rule": "The Director, or an officer authorised by Gazette notice, may settle an offence for money.",
+  "points": [
+    "The offender must admit the offence in writing on the prescribed form.",
+    "The value of the produce or damage must not exceed TSh 2,000,000.",
+    "The sum is up to five times the maximum fine, plus fees and royalties due, the value of damaged produce, and expenses.",
+    "A receipt in the prescribed form is given and the action is reported. The money goes to the Fund.",
+    "Compounding is a defence to later charges."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a98"
+  ],
+  "src": "Act pp. 287 to 288",
+  "flag": null
+}

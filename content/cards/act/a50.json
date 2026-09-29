@@ -1,0 +1,31 @@
+{
+  "id": "a50",
+  "law": "Forest Act",
+  "ref": "s. 50",
+  "title": "Applying for a permit",
+  "scen": [
+    "permit"
+  ],
+  "rule": "Applications go on the prescribed form with the prescribed fee, signed by the applicant or a representative.",
+  "points": [
+    "Most go to the forest manager of the reserve.",
+    "Timber for export, mining or prospecting, protected plants, tourism and export of other produce go to the Director.",
+    "The forest manager may ask for more information, publicity or consultation before deciding.",
+    "A list of applications must be displayed at least 14 days before the meeting, at the local authority and village council offices.",
+    "The forest manager keeps a register of applications that the public can inspect."
+  ],
+  "checks": [
+    "Form and fee",
+    "Signature",
+    "Correct recipient",
+    "List displayed",
+    "Register entry"
+  ],
+  "penalty": null,
+  "related": [
+    "a49",
+    "a51"
+  ],
+  "src": "Act pp. 249 to 251",
+  "flag": null
+}

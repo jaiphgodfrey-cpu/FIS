@@ -1,0 +1,33 @@
+{
+  "id": "a93",
+  "law": "Forest Act",
+  "ref": "s. 93",
+  "title": "Officer powers: stop, search, seize, arrest",
+  "scen": [
+    "powers",
+    "possess",
+    "move"
+  ],
+  "rule": "An authorised officer, forestry officer or police officer may:",
+  "points": [
+    "Demand any licence or authority the Act requires.",
+    "Stop and question a person suspected of holding unlawfully obtained produce, and search them, their baggage, vehicle, boat, tent or building without a warrant.",
+    "Stop the movement of, seize and detain forest produce or livestock, and the vehicles and tools used, and report the seizure to the nearest magistrate.",
+    "Arrest without a warrant if the person refuses to give a name and address, gives a false one, or may abscond, and take them to court.",
+    "Limit: forest rangers, guards and police below inspector may not search homes, and a search of a home needs two independent witnesses."
+  ],
+  "checks": [
+    "Your written authorisation",
+    "Grounds for suspicion",
+    "Witnesses if a home",
+    "Record of items",
+    "Report to the magistrate"
+  ],
+  "penalty": null,
+  "related": [
+    "a94",
+    "a89"
+  ],
+  "src": "Act pp. 286 to 287",
+  "flag": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gn-132-2025",
+  "citation": "Government Notice No. 132 of 2025 — The Forest (Amendment) Regulations, 2025 (made under s. 106(1) of the Forest Act, Cap. 323)",
+  "renumberingNote": "Cites s. 106(1) as printed at publication. In Cap. 323 R.E. 2023 the regulation-making power appears at s. 107 (see card a107). The as-printed citation is kept; it is not modernised.",
+  "kind": "amendment-regulations",
+  "chain": "A",
+  "amends": "gn-153-2004",
+  "published": "2025-02-21",
+  "commencement": null,
+  "commencementNote": "No express commencement provision; publication date recorded, commencement not asserted.",
+  "status": "in-force",
+  "isCurrentRateTable": true,
+  "provisionsFile": "provisions.json",
+  "events": [
+    { "id": "e1", "type": "replace-schedule", "target": "gn-153-2004/schedule-8", "replacementProvisionId": "gn-132-2025/schedule-8-of-gn132" },
+    { "id": "e2", "type": "replace-schedule", "target": "gn-153-2004/schedule-14", "replacementProvisionId": "gn-132-2025/schedule-14-of-gn132" }
+  ],
+  "verification": {
+    "status": "unverified-from-pwa",
+    "needsCheckAgainst": "printed Gazette text of GN No. 132 of 2025 (not located online as of 27 September 2026; obtain from the Gazette Office or TFS)",
+    "note": "Official text not found online. The structured rate tables (logRates, otherRates, speciesClassification) are carried verbatim from the PWA v0.6 data block and await verification against the printed Gazette. Includes species reclassifications such as Afzelia quanzensis (Class IA to Class IB)."
+  }
+}

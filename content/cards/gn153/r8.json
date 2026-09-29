@@ -1,0 +1,31 @@
+{
+  "id": "r8",
+  "law": "Regulations 2004",
+  "ref": "regs 39 to 43",
+  "title": "Registered marks and seizure",
+  "scen": [
+    "move",
+    "sell",
+    "possess",
+    "powers"
+  ],
+  "rule": "Timber moved from a forest area must have a transit pass and the registered mark. An authorised officer may seize produce that has no registered mark or whose mark has been defaced or sawn off.",
+  "points": [
+    "The Director and local authorities give authorised officers distinctive registered marks. The officer is responsible for the mark and hands it in on leaving office.",
+    "Licence holders register a property mark with the Director.",
+    "Only the registered owner may use a registered mark. Using unregistered, defaced or counterfeit marks is an offence under the Regulations."
+  ],
+  "checks": [
+    "Marks present and intact",
+    "Registered owner",
+    "Signs of removal"
+  ],
+  "penalty": null,
+  "related": [
+    "r5",
+    "a93",
+    "a90"
+  ],
+  "src": "GN 153 pp. 21 to 22",
+  "flag": null
+}

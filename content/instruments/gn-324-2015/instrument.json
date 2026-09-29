@@ -1,0 +1,21 @@
+{
+  "id": "gn-324-2015",
+  "citation": "Government Notice No. 324 of 2015 — Forest (Amendment) Regulations, 2015 (made under the Forest Act, Cap. 323)",
+  "kind": "amendment-regulations",
+  "chain": "A",
+  "amends": "gn-153-2004",
+  "published": null,
+  "commencement": null,
+  "status": "superseded",
+  "supersededBy": ["gn-255-2017"],
+  "provisionsFile": "provisions.json",
+  "provisionsNote": "Text not located online as of 27 September 2026; provisions.json is an empty placeholder.",
+  "events": [
+    { "id": "e1", "type": "replace-schedule", "target": "gn-153-2004/schedule-8", "replacementProvisionId": null, "note": "Replacement text not yet obtained." },
+    { "id": "e2", "type": "replace-schedule", "target": "gn-153-2004/schedule-14", "replacementProvisionId": null, "note": "Replacement text not yet obtained." }
+  ],
+  "verification": {
+    "status": "unverified",
+    "needsCheckAgainst": "printed Gazette text of GN No. 324 of 2015 (not located online; obtain from the Gazette Office or TFS)"
+  }
+}

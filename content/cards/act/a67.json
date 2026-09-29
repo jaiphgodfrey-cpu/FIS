@@ -1,0 +1,30 @@
+{
+  "id": "a67",
+  "law": "Forest Act",
+  "ref": "s. 67",
+  "title": "Protected wild plants",
+  "scen": [
+    "reserve",
+    "private",
+    "farm"
+  ],
+  "rule": "The Minister may gazette a list of protected wild plants. Once listed, no one may pick, damage, destroy or otherwise interfere with them.",
+  "points": [
+    "Publication of the list in the Gazette is itself what confers protection (s.67(2)).",
+    "Banned without lawful authority: picking, plucking, taking samples, or wilfully poisoning, damaging or destroying a listed plant (s.67(4)).",
+    "Where existing right holders in a forest reserve already use a listed plant, the Director must work with them on a scheme allowing continued, regulated use (s.67(5)).",
+    "The Director may grant a research permit to a qualified researcher with a reputable affiliation, allowing sampling of a listed plant (s.67(6))."
+  ],
+  "checks": [
+    "Is the plant on a gazetted list",
+    "Lawful authority, licence or research permit",
+    "Existing right holder with an agreed scheme"
+  ],
+  "penalty": "See s. 86.",
+  "related": [
+    "a26",
+    "a86"
+  ],
+  "src": "Act pp. 271 to 272",
+  "flag": null
+}

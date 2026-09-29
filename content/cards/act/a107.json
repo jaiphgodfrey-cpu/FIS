@@ -1,0 +1,22 @@
+{
+  "id": "a107",
+  "law": "Forest Act",
+  "ref": "s. 107",
+  "title": "Power to make regulations",
+  "scen": [
+    "terms"
+  ],
+  "rule": "The Minister may make regulations on felling, working, removal and transport of timber; on areas of unreserved land where timber may or may not be cut; and on licences, permits and fees.",
+  "points": [
+    "This is the legal basis for the Regulations that hold the detailed harvesting and licensing rules.",
+    "Rules may set a fine up to TSh 500,000 or up to 6 months in prison, or both (s. 107(5))."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "r1",
+    "g1"
+  ],
+  "src": "Act pp. 297 to 300",
+  "flag": null
+}

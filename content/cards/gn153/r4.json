@@ -1,0 +1,26 @@
+{
+  "id": "r4",
+  "law": "Regulations 2004",
+  "ref": "regs 8 and 9",
+  "title": "Removal time, route and sale",
+  "scen": [
+    "licence",
+    "move",
+    "sell"
+  ],
+  "rule": "Removal must finish within the licence period, by the approved route, and only the product described in the licence or transit pass may be sold.",
+  "points": [
+    "The period can be extended by a forestry officer on payment of the prescribed fee.",
+    "Produce left in the reserve after expiry is forfeited and disposed of by the Director.",
+    "Transport on the track or road shown on the licence or transit pass."
+  ],
+  "checks": [
+    "Licence dates",
+    "Route",
+    "Product against description"
+  ],
+  "penalty": null,
+  "related": [],
+  "src": "GN 153 p. 10",
+  "flag": null
+}

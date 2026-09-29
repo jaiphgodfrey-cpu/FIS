@@ -1,0 +1,24 @@
+{
+  "id": "gn-255-2017",
+  "citation": "Government Notice No. 255 of 2017 — The Forest (Amendments) Regulations, 2017 (made under s. 106 of the Forest Act, Cap. 323)",
+  "renumberingNote": "Cites s. 106 as printed at publication. In Cap. 323 R.E. 2023 the regulation-making power appears at s. 107 (see card a107). The as-printed citation is kept; it is not modernised.",
+  "kind": "amendment-regulations",
+  "chain": "A",
+  "amends": "gn-153-2004",
+  "published": "2017-07-28",
+  "commencement": null,
+  "commencementNote": "No express commencement provision; publication date recorded, commencement not asserted.",
+  "status": "superseded",
+  "supersededBy": ["gn-59-2022"],
+  "nameCollisionWarning": "This is NOT the same instrument as GN 255 of 2023 (Chain B). They share a notice number but are entirely separate instruments.",
+  "provisionsFile": "provisions.json",
+  "events": [
+    { "id": "e1", "type": "replace-schedule", "target": "gn-153-2004/schedule-8", "replacementProvisionId": "gn-255-2017/schedule-8-of-gn255" },
+    { "id": "e2", "type": "replace-schedule", "target": "gn-153-2004/schedule-14", "replacementProvisionId": "gn-255-2017/schedule-14-of-gn255" }
+  ],
+  "verification": {
+    "status": "verified-against-official-pdf",
+    "needsCheckAgainst": "printed Gazette of Tanzania, Supplement No. 29 to Gazette No. 30 Vol. 98 of 28/07/2017",
+    "note": "Retrieved from FAOLEX copy of the Gazette Supplement. No signature block appears in the retrieved text."
+  }
+}

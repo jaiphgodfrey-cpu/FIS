@@ -1,0 +1,25 @@
+{
+  "id": "a55",
+  "law": "Forest Act",
+  "ref": "s. 55",
+  "title": "Revoking or suspending a permit",
+  "scen": [
+    "permit"
+  ],
+  "rule": "Only the Director may revoke or suspend, only on listed grounds, and only after a show-cause notice.",
+  "points": [
+    "Grounds: a natural disaster needing regeneration; too many permits; a permit passed to someone who would have been refused; a permit granted against the Director's advice; the activity not carried out for a continuous year; s. 48 circumstances; a Minister's direction to meet an international convention.",
+    "The holder has 40 days to show cause.",
+    "The Director decides within 60 days of the responses.",
+    "The notice takes effect at least 14 days after issue.",
+    "Compensation is payable for some grounds.",
+    "The holder can appeal to the High Court."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a56"
+  ],
+  "src": "Act pp. 258 to 260",
+  "flag": null
+}

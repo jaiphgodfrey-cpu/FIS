@@ -1,0 +1,23 @@
+{
+  "id": "g11",
+  "law": "Regulations 2019",
+  "ref": "regs 10, 21, 23",
+  "title": "Charcoal rules and general penalty",
+  "scen": [
+    "sell",
+    "penal"
+  ],
+  "rule": "The Chief Executive issues guidelines for efficient charcoal production. Charcoal, other than briquettes, cannot be exported without the Minister's permit.",
+  "points": [
+    "Producing charcoal against the guidelines is an offence.",
+    "Exporting charcoal without a permit is an offence.",
+    "Anything else with no specific penalty carries the general penalty."
+  ],
+  "checks": [],
+  "penalty": "Charcoal production in breach: fine of TSh 1,000,000 to 3,000,000, or 6 months to 1 year, or both. Charcoal export without a permit: fine of TSh 5,000,000 to 10,000,000, or 1 to 5 years, plus confiscation. General penalty: fine of TSh 500,000, or 6 months, or both.",
+  "related": [
+    "r9"
+  ],
+  "src": "GN 417 pp. 8, 12, 13",
+  "flag": "The general penalty (6 months) differs from Regulations 2004 reg 58 (2 years)."
+}

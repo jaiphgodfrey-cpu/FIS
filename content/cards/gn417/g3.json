@@ -1,0 +1,30 @@
+{
+  "id": "g3",
+  "law": "Regulations 2019",
+  "ref": "regs 7 to 9",
+  "title": "Certificate of allocation, then felling licence",
+  "scen": [
+    "licence"
+  ],
+  "rule": "Two steps: first a certificate of allocation from the District Committee, then a felling licence under the 2004 Regulations.",
+  "points": [
+    "Applicant: a Tanzanian citizen registered as a forest produce dealer, with a business licence, TIN, the technology the Director specifies, and fees paid.",
+    "Apply to the District Forest Manager for national reserves and general land, the District Forest Officer for local authority reserves, or the Village Executive Officer for village forests.",
+    "Unsuccessful applicants are told in writing, with reasons, within 14 days.",
+    "The successful applicant applies for the felling licence with the certificate attached.",
+    "The certificate says it is not a felling licence.",
+    "Only species named in the harvesting licence may be felled."
+  ],
+  "checks": [
+    "Certificate and licence both held",
+    "Species match",
+    "Applicant documents"
+  ],
+  "penalty": null,
+  "related": [
+    "g2",
+    "r1"
+  ],
+  "src": "GN 417 pp. 7 to 8, as amended in 2023",
+  "flag": "Reg 7(2)(a) still names the District Forest Manager, but the Committee Secretary is now the District Forest Officer. Confirm who receives applications."
+}

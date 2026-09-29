@@ -1,0 +1,18 @@
+{
+  "id": "r9",
+  "law": "Regulations 2004",
+  "ref": "regs 57 and 58",
+  "title": "Penalties in the 2004 Regulations",
+  "scen": [
+    "penal"
+  ],
+  "rule": "A breach of the Regulations is an offence punished as the Act prescribes, and materials found are confiscated. Where the Act has no specific penalty, a general penalty applies.",
+  "points": [],
+  "checks": [],
+  "penalty": "General penalty: fine up to TSh 500,000, or up to 2 years in prison, or both.",
+  "related": [
+    "g11"
+  ],
+  "src": "GN 153 p. 38",
+  "flag": "Act s. 107(5) and Regulations 2019 reg 23 allow only 6 months. Confirm which limit applies."
+}

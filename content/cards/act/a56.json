@@ -1,0 +1,25 @@
+{
+  "id": "a56",
+  "law": "Forest Act",
+  "ref": "s. 56",
+  "title": "Notice of compliance",
+  "scen": [
+    "permit"
+  ],
+  "rule": "If a permit holder breaches the permit or its conditions, the Director may serve a notice of compliance.",
+  "points": [
+    "It names the breach and the steps to fix it.",
+    "The deadline is not earlier than 21 days from service.",
+    "It can require compensation and states the penalties, including revocation.",
+    "The holder may appeal to the High Court on the listed grounds.",
+    "The Director may delegate serving notices to a forest manager and may send warning notices first, without any duty to."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a55",
+    "a57"
+  ],
+  "src": "Act pp. 260 to 263",
+  "flag": null
+}

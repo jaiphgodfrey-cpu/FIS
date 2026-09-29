@@ -1,0 +1,27 @@
+{
+  "id": "g2",
+  "law": "Regulations 2019",
+  "ref": "regs 3 to 6",
+  "title": "Harvesting plan and District Committee",
+  "scen": [
+    "licence"
+  ],
+  "rule": "Harvesting needs an approved Harvesting Plan. A District Forest Produce Harvesting Committee decides applications for certificates of allocation.",
+  "points": [
+    "The plan covers production national, local authority, village and community reserves, and forests on general and village land except Wildlife Management Areas.",
+    "No application is considered without proof of an approved plan.",
+    "Committee members: District Commissioner (chair), District Land and Natural Resources Officer, District Forest Officer, chairman of the responsible village, Village Executive Officer, District Executive Director. The District Forest Officer is Secretary.",
+    "It meets at least once a year. The quorum is half the members including the chair.",
+    "A certificate of allocation is non-transferable."
+  ],
+  "checks": [
+    "Approved Harvesting Plan for the area",
+    "Committee has met"
+  ],
+  "penalty": null,
+  "related": [
+    "g3"
+  ],
+  "src": "GN 417 pp. 6 to 7, as amended in 2023",
+  "flag": null
+}

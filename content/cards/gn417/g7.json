@@ -1,0 +1,29 @@
+{
+  "id": "g7",
+  "law": "Regulations 2019",
+  "ref": "reg 15",
+  "title": "Felling trees to prepare a farm",
+  "scen": [
+    "farm",
+    "penal"
+  ],
+  "rule": "Felling trees for farm preparation or other land use needs a permit from the District Forest Manager after approval by the District Committee.",
+  "points": [
+    "Small farm: 1 to 50 acres.",
+    "Large farm: above 50 acres."
+  ],
+  "checks": [
+    "Permit and Committee approval",
+    "Area in acres",
+    "Species and number of trees",
+    "Who owns and uses the land"
+  ],
+  "penalty": "1 to 50 acres: fine of TSh 3,000,000 to 5,000,000, or 1 to 2 years in prison, or both. Above 50 acres: fine of TSh 10,000,000 to 12,000,000, or 2 to 5 years in prison, or both.",
+  "related": [
+    "a89",
+    "r7",
+    "a18"
+  ],
+  "src": "GN 417 p. 10",
+  "flag": "No penalty is stated for land under one acre."
+}

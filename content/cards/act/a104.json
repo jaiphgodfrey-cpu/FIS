@@ -1,0 +1,28 @@
+{
+  "id": "a104",
+  "law": "Forest Act",
+  "ref": "ss. 104, 105",
+  "title": "Rights of entry and call for information",
+  "scen": [
+    "powers"
+  ],
+  "rule": "A person authorised by the Director may enter and inspect land (other than a dwelling house) between 6 am and 6 pm, on at least 48 hours' notice, for any purpose connected with implementing the Act. The Director may also require a licence holder to provide information by registered post.",
+  "points": [
+    "Entry excludes land occupied exclusively as a dwelling house (s.104(1)).",
+    "The 48-hour notice and 6 am to 6 pm window are the baseline; this is a narrower, general-purpose power distinct from the search/seizure powers in s.93.",
+    "s.105 lets the Director demand information in writing from any licence holder, for any purpose connected with implementing the Act."
+  ],
+  "checks": [
+    "Written authorisation",
+    "48-hour notice given",
+    "Time of day (6am to 6pm)",
+    "Not a dwelling house",
+    "Licence holder status (for s.105 information requests)"
+  ],
+  "penalty": null,
+  "related": [
+    "a93"
+  ],
+  "src": "Act pp. 293 to 295",
+  "flag": null
+}

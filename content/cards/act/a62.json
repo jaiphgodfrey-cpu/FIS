@@ -1,0 +1,28 @@
+{
+  "id": "a62",
+  "law": "Forest Act",
+  "ref": "s. 62",
+  "title": "Prohibition of marking by an unauthorised person",
+  "scen": [
+    "move",
+    "possess",
+    "powers",
+    "penal"
+  ],
+  "rule": "Only a grader may mark timber, and only an inspector may mark or place a mark on other forest produce, with any mark prescribed under the Act. No one may use a mark confusingly similar to a prescribed mark.",
+  "points": [
+    "Pairs with the registered-mark and transit-pass system in the 2004 Regulations (reg 39 to 43) — this is the Act-level source for that marking regime.",
+    "Also pairs with s.90 (counterfeiting), which criminalises forging, altering or fraudulently using any mark, stamp, licence, permit or certificate issued under the Act."
+  ],
+  "checks": [
+    "Was the mark applied by an authorised grader/inspector",
+    "Is the mark identical to or confusingly similar to a prescribed mark"
+  ],
+  "penalty": "See s. 90.",
+  "related": [
+    "r8",
+    "a90"
+  ],
+  "src": "Act p. 267",
+  "flag": null
+}

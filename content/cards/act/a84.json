@@ -1,0 +1,24 @@
+{
+  "id": "a84",
+  "law": "Forest Act",
+  "ref": "s. 84",
+  "title": "Offences in forest reserves",
+  "scen": [
+    "reserve",
+    "penal"
+  ],
+  "rule": "Entering a reserve, or doing an act banned by s. 26, without an existing right, permit or lawful authority is an offence.",
+  "points": [
+    "Also an offence: blocking roads, paths or watercourses; hiding or removing tree stumps; damaging boundary marks or notice boards.",
+    "Being in or near a reserve with cutting tools, without lawful excuse, is an offence. The burden is on the person.",
+    "Livestock found in a reserve are presumed to be there with the owner's authority."
+  ],
+  "checks": [],
+  "penalty": "Fine of TSh 30,000 to 1,000,000, or up to 2 years in prison, or both.",
+  "related": [
+    "a26",
+    "a49"
+  ],
+  "src": "Act pp. 281 to 282",
+  "flag": null
+}

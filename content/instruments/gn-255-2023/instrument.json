@@ -1,0 +1,26 @@
+{
+  "id": "gn-255-2023",
+  "citation": "Government Notice No. 255 of 2023 — Forest (Sustainable Utilization of Logs, Timber, Withies, Poles or Charcoal) (Amendment) Regulations, 2023",
+  "kind": "amendment-regulations",
+  "chain": "B",
+  "amends": "gn-417-2019",
+  "published": null,
+  "publicationNote": "A currency date of 31/3/2023 is recorded for Chain B in the PWA sources (current as of 31 March 2023); that is a currency date, not a verified publication date. The publication date is to be obtained from the printed Gazette.",
+  "commencement": null,
+  "status": "in-force",
+  "nameCollisionWarning": "This is NOT the same instrument as GN 255 of 2017 (Chain A). They share a notice number but are entirely separate instruments.",
+  "provisionsFile": "provisions.json",
+  "provisionsNote": "Text not located online as of 27 September 2026; provisions.json is an empty placeholder.",
+  "events": [
+    {
+      "id": "e1",
+      "type": "amend-regulation",
+      "target": "gn-417-2019/reg-3..reg-9",
+      "note": "Amends regulations 3 to 9. Text not yet obtained."
+    }
+  ],
+  "verification": {
+    "status": "unverified",
+    "needsCheckAgainst": "printed Gazette text of GN No. 255 of 2023 (not located online; obtain from the Gazette Office or TFS)"
+  }
+}

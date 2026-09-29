@@ -1,0 +1,36 @@
+{
+  "id": "a89",
+  "law": "Forest Act",
+  "ref": "s. 89",
+  "title": "Illegal harvesting, transport and trade",
+  "scen": [
+    "private",
+    "farm",
+    "move",
+    "sell",
+    "possess",
+    "penal"
+  ],
+  "rule": "Without lawful authority or excuse it is an offence to harvest forest produce, carry or transport produce harvested illegally, sell or buy it, or stock it.",
+  "points": [
+    "Also: marking timber without being an authorised grader, and exporting without a valid export certificate.",
+    "Forest produce includes trees and timber.",
+    "Covers vehicles and carrying by hand.",
+    "The burden of proving lawful authority or excuse is on the accused."
+  ],
+  "checks": [
+    "Species, quantity and volume",
+    "Where and how it was harvested",
+    "Vehicle or carrier",
+    "Documents shown",
+    "Market value"
+  ],
+  "penalty": "Fine of TSh 1,000,000 or three times the market value, whichever is greater, or 2 to 7 years in prison, or both.",
+  "related": [
+    "a85",
+    "a88",
+    "g8"
+  ],
+  "src": "Act pp. 283 to 284",
+  "flag": "Confirm with a legal officer how s. 89(a) and s. 85 apply to felling outside reserves."
+}

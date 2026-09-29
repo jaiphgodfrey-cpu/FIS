@@ -1,0 +1,24 @@
+{
+  "id": "a53",
+  "law": "Forest Act",
+  "ref": "s. 53",
+  "title": "Changing a permit",
+  "scen": [
+    "permit"
+  ],
+  "rule": "The holder can apply to change a permit. The Director or forest manager can also propose a change if circumstances have changed.",
+  "points": [
+    "The holder has 30 days to accept or reject a proposed change.",
+    "If rejected, they negotiate for 60 days.",
+    "Then the proposal is withdrawn or a notice takes effect at least one month later.",
+    "If the change disadvantages the holder significantly, they may ask for reduced payments or surrender the permit."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a51",
+    "a52"
+  ],
+  "src": "Act pp. 255 to 257",
+  "flag": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gn-657-2019",
+  "citation": "Government Notice No. 657 of 2019 — Forest (Sustainable Utilization of Logs, Timber, Withies, Poles or Charcoal) (Amendment) Regulations, 2019",
+  "kind": "amendment-regulations",
+  "chain": "B",
+  "amends": "gn-417-2019",
+  "published": null,
+  "commencement": null,
+  "status": "in-force",
+  "provisionsFile": "provisions.json",
+  "provisionsNote": "Text not located online as of 27 September 2026; provisions.json is an empty placeholder.",
+  "events": [
+    {
+      "id": "e1",
+      "type": "insert-regulation",
+      "target": "gn-417-2019/reg-8",
+      "position": "after",
+      "resultingProvisionId": "gn-417-2019/reg-8A",
+      "note": "Inserts regulation 8A (National Forest Advisory Committee and harvesting quotas). Text not yet obtained."
+    }
+  ],
+  "verification": {
+    "status": "unverified",
+    "needsCheckAgainst": "printed Gazette text of GN No. 657 of 2019 (not located online; obtain from the Gazette Office or TFS)"
+  }
+}

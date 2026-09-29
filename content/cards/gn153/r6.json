@@ -1,0 +1,35 @@
+{
+  "id": "r6",
+  "law": "Regulations 2004",
+  "ref": "reg 13",
+  "title": "Transit pass",
+  "scen": [
+    "move",
+    "private",
+    "possess"
+  ],
+  "rule": "No forest produce may be removed from any forest area, woodlot, private land or other place without a transit pass.",
+  "points": [
+    "Covers trees, timber, logs, poles, charcoal, firewood, gums, fibres and similar.",
+    "A forestry officer issues the pass after checking the produce's genuine origin.",
+    "Produce with a pass must be marked under reg 7.",
+    "A transporter must not accept produce without a valid pass.",
+    "No pass is needed for charcoal, firewood, gums, fibres or flosses moved within the same district.",
+    "Registered marks are not needed on head-loaded charcoal or firewood, or produce that cannot be marked."
+  ],
+  "checks": [
+    "Pass present and valid",
+    "Origin checked",
+    "Marks",
+    "Transporter's duty",
+    "Whether the exception applies"
+  ],
+  "penalty": "Liable to a penalty under the Act.",
+  "related": [
+    "g8",
+    "g10",
+    "a89"
+  ],
+  "src": "GN 153 pp. 11 to 12",
+  "flag": "Read with Regulations 2019, regs 16, 17 and 20."
+}

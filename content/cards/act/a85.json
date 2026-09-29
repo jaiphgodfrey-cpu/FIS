@@ -1,0 +1,25 @@
+{
+  "id": "a85",
+  "law": "Forest Act",
+  "ref": "s. 85",
+  "title": "Offence: reserved trees outside reserves",
+  "scen": [
+    "private",
+    "penal"
+  ],
+  "rule": "Felling, cutting, lopping, damaging, removing or selling a reserved tree on unreserved land without a licence, permit or lawful authority is an offence.",
+  "points": [],
+  "checks": [
+    "The tree is a reserved tree",
+    "The land is unreserved",
+    "The act",
+    "No licence, permit or lawful authority"
+  ],
+  "penalty": "Fine of TSh 50,000 to 1,000,000, or up to 1 year in prison, or both.",
+  "related": [
+    "a65",
+    "a89"
+  ],
+  "src": "Act p. 282",
+  "flag": "Covers reserved trees only. Confirm with a legal officer whether s. 89 applies instead to other trees."
+}

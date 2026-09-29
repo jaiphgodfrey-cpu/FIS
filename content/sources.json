@@ -1,0 +1,122 @@
+[
+  {
+    "id": "src-act-cap323",
+    "citation": "Forest Act, Cap. 323 [R.E. 2023] (originally No. 14 of 2002)",
+    "kind": "act",
+    "parent": null,
+    "note": "Base text. Sections 2, 11 to 18, 25 to 26, 32 to 33, 40 to 41, 47 to 63, 65 to 68, 70 to 78, 84 to 86, 88 to 91, 93 to 95, 98, 104 to 105, 107 to 108 carded in the PWA.",
+    "instrumentId": null,
+    "verification": {
+      "status": "unverified",
+      "needsCheckAgainst": "official text of the Forest Act, Cap. 323 R.E. 2023"
+    }
+  },
+  {
+    "id": "src-gn-153-2004",
+    "citation": "Government Notice No. 153 of 2004 — The Forest Regulations, 2004",
+    "kind": "principal-regulations",
+    "parent": "src-act-cap323",
+    "note": "Regs 3 to 13, 14(4), 39 to 43, 55 to 58 as carded. General licensing, marking, transit and catchment framework.",
+    "instrumentId": "gn-153-2004",
+    "verification": {
+      "status": "unverified-transcript",
+      "needsCheckAgainst": "printed Gazette GN No. 153 of 21/5/2004"
+    }
+  },
+  {
+    "id": "src-gn-1132-2011",
+    "citation": "Government Notice No. 1132 of 2011 — The Forest (Amendment) Regulations, 2011",
+    "kind": "amendment-regulations",
+    "parent": "src-gn-153-2004",
+    "note": "Amends PART VII title, inserts reg 29A, replaces the Eighth and Fourteenth Schedules. THIS INSTRUMENT WAS MISSING FROM THE PWA v0.6 AMENDMENT CHAIN and was added in the repo (0.7-repo). Degraded OCR text; header prints GN No. 1132, running heads print GN No. 432.",
+    "instrumentId": "gn-1132-2011",
+    "verification": {
+      "status": "unverified-degraded-ocr",
+      "needsCheckAgainst": "printed Gazette GN No. 1132 of 9/12/2011"
+    }
+  },
+  {
+    "id": "src-gn-324-2015",
+    "citation": "Government Notice No. 324 of 2015 — Forest (Amendment) Regulations, 2015",
+    "kind": "amendment-regulations",
+    "parent": "src-gn-153-2004",
+    "note": "Replaced the Eighth and Fourteenth Schedules (fees, royalties). Superseded. Text not located online.",
+    "instrumentId": "gn-324-2015",
+    "verification": {
+      "status": "unverified",
+      "needsCheckAgainst": "printed Gazette GN No. 324 of 2015"
+    }
+  },
+  {
+    "id": "src-gn-255-2017",
+    "citation": "Government Notice No. 255 of 2017 — The Forest (Amendments) Regulations, 2017",
+    "kind": "amendment-regulations",
+    "parent": "src-gn-153-2004",
+    "note": "Replaced the Eighth and Fourteenth Schedules again. Superseded by GN 59 of 2022. Not to be confused with GN 255 of 2023 (Chain B).",
+    "instrumentId": "gn-255-2017",
+    "verification": {
+      "status": "verified-against-official-pdf",
+      "needsCheckAgainst": "printed Gazette Supp. No. 29 to Gazette No. 30 Vol. 98 of 28/07/2017"
+    }
+  },
+  {
+    "id": "src-gn-59-2022",
+    "citation": "Government Notice No. 59 of 2022 — The Forest (Amendment) Regulations, 2022",
+    "kind": "amendment-regulations",
+    "parent": "src-gn-153-2004",
+    "note": "Published 28 Jan 2022, replaced the Eighth and Fourteenth Schedules. Itself superseded by GN 132 of 2025; full text retained in this repo.",
+    "instrumentId": "gn-59-2022",
+    "verification": {
+      "status": "verified-against-official-pdf",
+      "needsCheckAgainst": "printed Gazette Vol. 93 No. 15 of 28/1/2022"
+    }
+  },
+  {
+    "id": "src-gn-132-2025",
+    "citation": "Government Notice No. 132 of 2025 — The Forest (Amendment) Regulations, 2025",
+    "kind": "amendment-regulations",
+    "parent": "src-gn-153-2004",
+    "note": "CURRENT. Published 21/2/2025. Deletes and substitutes the Eighth Schedule (recreation fees) and Fourteenth Schedule (tree classification, royalty and fee tariffs) in full. Reclassifies several species between classes (e.g. Afzelia quanzensis IA to IB) in addition to changing the tariffs. Official text not located online; rate tables carried from the PWA.",
+    "instrumentId": "gn-132-2025",
+    "verification": {
+      "status": "unverified-from-pwa",
+      "needsCheckAgainst": "printed Gazette GN No. 132 of 21/2/2025"
+    }
+  },
+  {
+    "id": "src-gn-417-2019",
+    "citation": "Government Notice No. 417 of 2019 — The Forest (Sustainable Utilization of Logs, Timber, Withies, Poles or Charcoal) Regulations, 2019",
+    "kind": "principal-regulations",
+    "parent": "src-act-cap323",
+    "note": "A separate instrument from Chain A. Harvesting plan, District Committee, certificate of allocation, transport and sale rules. Text not located online; the gn417 cards are paraphrase stand-ins.",
+    "instrumentId": "gn-417-2019",
+    "verification": {
+      "status": "unverified",
+      "needsCheckAgainst": "printed Gazette GN No. 417 of 2019"
+    }
+  },
+  {
+    "id": "src-gn-657-2019",
+    "citation": "Government Notice No. 657 of 2019 — Forest (Sustainable Utilization...) (Amendment) Regulations, 2019",
+    "kind": "amendment-regulations",
+    "parent": "src-gn-417-2019",
+    "note": "Adds reg 8A, National Forest Advisory Committee and harvesting quotas. Text not located online.",
+    "instrumentId": "gn-657-2019",
+    "verification": {
+      "status": "unverified",
+      "needsCheckAgainst": "printed Gazette GN No. 657 of 2019"
+    }
+  },
+  {
+    "id": "src-gn-255-2023",
+    "citation": "Government Notice No. 255 of 2023 — Forest (Sustainable Utilization...) (Amendment) Regulations, 2023",
+    "kind": "amendment-regulations",
+    "parent": "src-gn-417-2019",
+    "note": "Amends regs 3 to 9. This is a different notice from GN 255 of 2017 above, despite sharing a number. Chain B current as of 31/3/2023. Text not located online.",
+    "instrumentId": "gn-255-2023",
+    "verification": {
+      "status": "unverified",
+      "needsCheckAgainst": "printed Gazette GN No. 255 of 2023"
+    }
+  }
+]

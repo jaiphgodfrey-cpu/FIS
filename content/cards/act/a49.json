@@ -1,0 +1,35 @@
+{
+  "id": "a49",
+  "law": "Forest Act",
+  "ref": "s. 49",
+  "title": "Permits for activities in forest reserves",
+  "scen": [
+    "permit",
+    "reserve"
+  ],
+  "rule": "Activities inside national and local authority forest reserves need a permit under Part VI.",
+  "points": [
+    "Felling or extracting timber for domestic sale, export, mining or prospecting.",
+    "Gathering forest produce, taking protected plant parts, building, running sawmills, roads, tourism, planting, hunting, fishing and grazing.",
+    "One permit can cover several activities.",
+    "Not every activity is allowed in every reserve.",
+    "A permit needs consistency with the management plan and compliance with other environment and land laws.",
+    "A permit does not remove the need for other licences.",
+    "Village councils may adopt Part VI by resolution for village land forest reserves and village forests. Domestic-use permits for villagers stay."
+  ],
+  "checks": [
+    "Type of forest",
+    "Activity",
+    "Management plan",
+    "Other licences needed"
+  ],
+  "penalty": null,
+  "related": [
+    "a50",
+    "a51",
+    "a26",
+    "a11"
+  ],
+  "src": "Act pp. 248 to 249",
+  "flag": null
+}

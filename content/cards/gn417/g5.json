@@ -1,0 +1,29 @@
+{
+  "id": "g5",
+  "law": "Regulations 2019",
+  "ref": "reg 13",
+  "title": "Commercial harvest from private land",
+  "scen": [
+    "private",
+    "licence"
+  ],
+  "rule": "Harvesting logs, timber, withies, poles or charcoal for sale from private land needs a permit from the District Forest Manager, and royalties are payable.",
+  "points": [
+    "A letter from the Village or Mtaa Executive Officer confirming ownership of the trees is required before the permit is issued."
+  ],
+  "checks": [
+    "Permit",
+    "Ownership letter",
+    "Royalties paid",
+    "Species and quantity"
+  ],
+  "penalty": null,
+  "related": [
+    "g6",
+    "g7",
+    "a77",
+    "a78"
+  ],
+  "src": "GN 417 pp. 9 to 10",
+  "flag": "Which royalty rate applies to trees that are not reserved is not clear. See Royalties."
+}

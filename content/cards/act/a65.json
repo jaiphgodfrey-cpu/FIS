@@ -1,0 +1,30 @@
+{
+  "id": "a65",
+  "law": "Forest Act",
+  "ref": "s. 65",
+  "title": "Reserved trees on general land",
+  "scen": [
+    "private",
+    "danger",
+    "farm"
+  ],
+  "rule": "The Minister may declare by Gazette order that certain trees on general land are reserved. Without a licence or lawful authority, no one may fell, cut, lop, damage or remove them, or take or sell their produce.",
+  "points": [
+    "An order may have exceptions and exemptions.",
+    "It stops applying if the land stops being general land.",
+    "The 25% fee for reserved trees on private farms is a Forest Regulations, 2004 (GN 153) rule, not part of the Act itself — s.65 sets the licence requirement but is silent on the fee."
+  ],
+  "checks": [
+    "Is there a Gazette order for this tree or species",
+    "Is the land general land",
+    "Licence or other lawful authority",
+    "Any exemption"
+  ],
+  "penalty": "See s. 85.",
+  "related": [
+    "a85",
+    "a66"
+  ],
+  "src": "Act pp. 269 to 270 (s.65(1) to (3)); fee figure per GN 153, page not yet pinned down",
+  "flag": "The Gazette orders naming reserved trees are not collected yet. Correction: this card previously cited the 25% fee to the Act; s.65(4) R.E. 2023 contains no fee provision. Verified against the Act text directly."
+}

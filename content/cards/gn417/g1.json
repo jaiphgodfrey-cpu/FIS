@@ -1,0 +1,24 @@
+{
+  "id": "g1",
+  "law": "Regulations 2019",
+  "ref": "reg 2",
+  "title": "Definitions",
+  "scen": [
+    "terms"
+  ],
+  "rule": "Terms used in the harvesting and transport rules.",
+  "points": [
+    "Charcoal for domestic consumption: not more than 50 kg in a person's possession, in transit or at a place.",
+    "Withies: small branches or saplings, or pruning material, of 4 cm diameter or less.",
+    "Exotic tree species: species grown outside their native environment, including pine, patula and eucalyptus.",
+    "Poles: rounded wood the size of a sapling and mature tree, such as bamboo, agave or eucalyptus.",
+    "Authorised officer: as in the Act, and also for these Regulations."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a2"
+  ],
+  "src": "GN 417 pp. 4 to 5",
+  "flag": null
+}

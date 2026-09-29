@@ -1,0 +1,26 @@
+{
+  "id": "g9",
+  "law": "Regulations 2019",
+  "ref": "regs 17 and 18",
+  "title": "Transport hours and domestic transport",
+  "scen": [
+    "move",
+    "penal"
+  ],
+  "rule": "Commercial transport is allowed from 6.00 am to 6.00 pm on the routes and by the means in the transit pass. Exotic species logs, timber, poles and withies may also move at night.",
+  "points": [
+    "A person moving these products for domestic use on any road must show a receipt proving purchase from a registered and licensed dealer."
+  ],
+  "checks": [
+    "Time of day",
+    "Species, exotic or not",
+    "Transit pass or dealer receipt"
+  ],
+  "penalty": "Domestic transport without a receipt: fine of TSh 500,000 to 1,000,000 or three times the market value if greater, or 6 months to 1 year in prison, plus confiscation.",
+  "related": [
+    "g8",
+    "g10"
+  ],
+  "src": "GN 417 p. 11",
+  "flag": null
+}

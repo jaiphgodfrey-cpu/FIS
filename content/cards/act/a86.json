@@ -1,0 +1,27 @@
+{
+  "id": "a86",
+  "law": "Forest Act",
+  "ref": "s. 86",
+  "title": "Offence: protected wild plants",
+  "scen": [
+    "penal",
+    "possess",
+    "sell"
+  ],
+  "rule": "Without lawful authority or excuse (burden on the accused), picking, damaging or destroying a listed wild plant, or possessing, selling, buying or exporting one, is an offence.",
+  "points": [
+    "Covers the same acts banned by s.67(4), plus exposing for sale, possessing with intent to sell, and exporting or attempting to export a listed plant."
+  ],
+  "checks": [
+    "Plant is on a gazetted list",
+    "The act (pick/damage/possess/sell/export)",
+    "Lawful authority or excuse"
+  ],
+  "penalty": "Fine of TSh 200,000 to 1,000,000, or imprisonment for 6 months to 2 years, or both (s.86).",
+  "related": [
+    "a67",
+    "a88"
+  ],
+  "src": "Act p. 282",
+  "flag": null
+}

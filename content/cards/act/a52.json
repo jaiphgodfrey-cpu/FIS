@@ -1,0 +1,28 @@
+{
+  "id": "a52",
+  "law": "Forest Act",
+  "ref": "s. 52",
+  "title": "Permit conditions",
+  "scen": [
+    "permit"
+  ],
+  "rule": "Conditions make the holder respect the Act's objectives and the management plan, and re-forest areas where trees are cut.",
+  "points": [
+    "Can cover pesticides, grazing places and periods, sawmill hours, export controls, timber volumes for mining, and transfer terms.",
+    "Can apply to other land the holder controls if connected to the permitted activity.",
+    "The Director may require a bond or guarantee for infrastructure or conservation work.",
+    "Conditions bind successors and transferees."
+  ],
+  "checks": [
+    "Conditions on the permit",
+    "Re-forestation done",
+    "Bond, if any"
+  ],
+  "penalty": null,
+  "related": [
+    "a51",
+    "a53"
+  ],
+  "src": "Act pp. 253 to 255",
+  "flag": null
+}

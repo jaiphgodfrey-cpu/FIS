@@ -1,0 +1,32 @@
+{
+  "id": "g10",
+  "law": "Regulations 2019",
+  "ref": "regs 19 and 20",
+  "title": "Sale points and documents for commercial movement",
+  "scen": [
+    "sell",
+    "move",
+    "penal"
+  ],
+  "rule": "Produce may only be shown for sale in registered yards, stores, sites or selling centres. Moving produce commercially needs five documents.",
+  "points": [
+    "Forest Produce Allocation Certificate.",
+    "Transit pass.",
+    "Licence to fell and collect forest produce.",
+    "Dealer registration certificate.",
+    "Government receipt.",
+    "A buyer from an allocation holder must obtain copies of the certificate, licence, dealer registration and receipt, and the original transit pass."
+  ],
+  "checks": [
+    "All five documents",
+    "The buyer's copies",
+    "Registered sale point"
+  ],
+  "penalty": "Sale in an unregistered place: fine of TSh 5,000,000 to 10,000,000, or 6 months to 2 years in prison, plus confiscation. Moving without the documents: fine of TSh 5,000,000 to 10,000,000, or 3 to 5 years in prison.",
+  "related": [
+    "g8",
+    "r6"
+  ],
+  "src": "GN 417 pp. 11 to 12",
+  "flag": null
+}

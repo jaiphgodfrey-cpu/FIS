@@ -1,0 +1,25 @@
+{
+  "id": "a90",
+  "law": "Forest Act",
+  "ref": "s. 90",
+  "title": "Counterfeiting and similar offences",
+  "scen": [
+    "penal",
+    "powers"
+  ],
+  "rule": "Counterfeiting, altering, obliterating or defacing any stamp, mark, licence, permit, certificate, authority or receipt issued under the Act, or fraudulently using or issuing one without authority, is an offence.",
+  "points": [
+    "Pairs directly with s.62 (marking by an unauthorised person) and with reg 39 to 43 of the 2004 Regulations (registered marks and seizure) — this is the Act-level offence behind both."
+  ],
+  "checks": [
+    "Is the document/mark genuine and properly issued",
+    "Evidence of alteration, forgery or unauthorised use"
+  ],
+  "penalty": "Fine of TSh 1,000,000 to 3,000,000, or imprisonment for 1 to 2 years, or both (s.90).",
+  "related": [
+    "a62",
+    "r8"
+  ],
+  "src": "Act p. 284",
+  "flag": null
+}

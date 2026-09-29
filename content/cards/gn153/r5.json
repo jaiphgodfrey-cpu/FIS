@@ -1,0 +1,23 @@
+{
+  "id": "r5",
+  "law": "Regulations 2004",
+  "ref": "reg 10",
+  "title": "Possession of forest produce",
+  "scen": [
+    "possess",
+    "sell"
+  ],
+  "rule": "It is unlawful to acquire or keep forest produce unless it was obtained under a licence and is marked with the Director's registered mark and the licensee's property mark.",
+  "points": [],
+  "checks": [
+    "Licence",
+    "Both marks"
+  ],
+  "penalty": null,
+  "related": [
+    "a88",
+    "r8"
+  ],
+  "src": "GN 153 pp. 10 to 11",
+  "flag": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a70",
+  "law": "Forest Act",
+  "ref": "ss. 70 to 76",
+  "title": "Restrictions on burning vegetation (fire)",
+  "scen": [
+    "fire",
+    "farm",
+    "catch"
+  ],
+  "rule": "Outside the curtilage of one's own house or compound, burning vegetation, or negligently kindling a fire that could spread and cause damage, is banned unless a Gazette order exempts it.",
+  "points": [
+    "A person intending to burn vegetation on land outside their own compound, or with another landholder's permission, must give reasonable advance notice to occupiers within half a kilometre and to the officer who authorised the burning (s.70(2)).",
+    "Notice must be in writing or oral (whichever is more effective), takes effect from when given, and must state roughly when burning will happen; a new notice is needed if the burning doesn't happen as scheduled (s.70(3) to (4)).",
+    "If a fire lawfully kindled after proper notice spreads to other land, the notice is a defence against a charge under this section (unless the spread was wilful or negligent) but does not bar a civil damages claim (s.70(5)).",
+    "s.71: anyone acting in good faith who believes an open fire may endanger life or property must notify the land's occupier and may enter land (alone or with others) to fight the fire or stop it spreading; an occupier so notified must take reasonable steps to extinguish it or may require others present to assist.",
+    "s.72: the Director may order an occupier to cut a boundary or internal fire-break of a specified width; non-compliance within 60 days lets the Director do the work and bill the occupier; the occupier may appeal to the High Court that the order was unjustified or unreasonable.",
+    "s.73: anyone on another's land (lawfully or not), a road, or vacant land must properly extinguish any fire they kindle or use, and must not go far enough away to lose control of it.",
+    "s.74: counter-firing to protect life, person or property from an approaching fire is not prohibited by this Part.",
+    "s.75: except for reasonable, necessary action under ss.71 and 74, this Part does not affect a person's right to sue for damages.",
+    "s.76: 'owner or occupier' of land where a fire is burning includes anyone managing the land on the owner's/occupier's behalf, or an employee with written authority to act for them."
+  ],
+  "checks": [
+    "Is there a Gazette exemption",
+    "Was notice given to nearby occupiers and the authorising officer",
+    "Location relative to own compound"
+  ],
+  "penalty": "See s. 91.",
+  "related": [
+    "a91",
+    "a66"
+  ],
+  "src": "Act pp. 273 to 277",
+  "flag": null
+}

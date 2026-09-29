@@ -1,0 +1,22 @@
+{
+  "id": "a25",
+  "law": "Forest Act",
+  "ref": "s. 25(8)",
+  "title": "Stop order for an unapproved new right",
+  "scen": [
+    "reserve",
+    "permit"
+  ],
+  "rule": "In a reserve, if someone exercises a new right without approval by cutting or removing trees or protected plants for sale or trade, the Director must issue a stop order.",
+  "points": [
+    "Served on the people carrying on the activity.",
+    "It directs them to stop at once."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a57"
+  ],
+  "src": "Act p. 213",
+  "flag": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a68",
+  "law": "Forest Act",
+  "ref": "s. 68",
+  "title": "Protected wild animals",
+  "scen": [
+    "reserve",
+    "powers"
+  ],
+  "rule": "No one may kill, injure, capture, collect or take a listed wild animal (or its eggs, nest or lair) without both a permit from the Director to enter the reserve and a licence from the wildlife authority.",
+  "points": [
+    "Two separate authorisations are required together: a Director's permit to enter the forest reserve, and a wildlife licence from the authority responsible for wildlife management and protection.",
+    "Offences relating to wild animals are dealt with under the Wildlife Conservation Act and other written laws, not this Act directly (s.87)."
+  ],
+  "checks": [
+    "Permit to enter the reserve",
+    "Wildlife licence",
+    "Is the animal on a protected list"
+  ],
+  "penalty": "See the Wildlife Conservation Act (s. 87 of this Act defers to it).",
+  "related": [
+    "a67",
+    "a86"
+  ],
+  "src": "Act pp. 272 to 273",
+  "flag": null
+}

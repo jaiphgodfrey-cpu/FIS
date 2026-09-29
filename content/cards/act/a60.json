@@ -1,0 +1,30 @@
+{
+  "id": "a60",
+  "law": "Forest Act",
+  "ref": "ss. 60, 61",
+  "title": "Graders and inspectors",
+  "scen": [
+    "sell",
+    "move"
+  ],
+  "rule": "The Director authorises graders (for timber) and inspectors (for other forest produce) to check quality and grade before export.",
+  "points": [
+    "An authorisation is personal to the holder and expires on 31 December of the year it was issued (s.60(3)).",
+    "The Director may suspend or revoke an authorisation on at least 30 days' notice, on grounds of qualifications or experience, after considering the holder's representations (s.60(4)).",
+    "A grader or inspector may refuse to inspect produce they consider unfit for export, with reasons given (s.61(4)).",
+    "Handling and inspection charges are borne by the owner or exporter, who must provide the necessary labour and facilities (s.61(6)).",
+    "A person aggrieved by a grader's or inspector's decision may appeal to the Director within 30 days; a person aggrieved by the Director's decision may appeal to the High Court (s.61(7) to (8))."
+  ],
+  "checks": [
+    "Authorisation current (not expired 31 Dec)",
+    "Reasons given for refusal or decision",
+    "Appeal deadline (30 days to Director)"
+  ],
+  "penalty": null,
+  "related": [
+    "a58",
+    "a62"
+  ],
+  "src": "Act pp. 266 to 267",
+  "flag": null
+}

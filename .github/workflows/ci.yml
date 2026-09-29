@@ -1,0 +1,28 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      # TODO: remove continue-on-error on both steps once the content
+      # (instruments, provisions, cards, meta, sources) has been pushed.
+      # Until then the skeleton has no content for the tests and build to read.
+      - name: Tests
+        continue-on-error: true
+        run: node --test tests/
+      - name: Build
+        continue-on-error: true
+        run: node build/build.js
+      - name: Upload dist
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fis-dist
+          path: dist/
+          if-no-files-found: ignore

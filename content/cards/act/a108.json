@@ -1,0 +1,26 @@
+{
+  "id": "a108",
+  "law": "Forest Act",
+  "ref": "s. 108",
+  "title": "Power to grant exemptions",
+  "scen": [
+    "permit",
+    "terms"
+  ],
+  "rule": "The Minister may, by Gazette notice, exempt a person, class of persons, or forest (or class of forests) from all or any provisions of the Act -- other than Parts IX (fire) and XI (offences and penalties) -- where satisfied this serves better management or sustainable use of the country's forest resources.",
+  "points": [
+    "The carve-out matters in practice: no one can be exempted from the fire rules (Part IX, ss.70 to 76) or from the offence and penalty provisions (Part XI, which includes s.91's fire offences and s.90's counterfeiting offence) under this power.",
+    "s.58(1)(b)'s export-certificate exemption can be granted through this section, since trade rules (Part VII) are not carved out.",
+    "s.70(1)'s burning exemption is a separate, self-contained power written into s.70 itself -- because Part IX is excluded from s.108, that exemption does not run through this section."
+  ],
+  "checks": [
+    "Is there a Gazette notice exempting this person/forest",
+    "What provisions does it exempt"
+  ],
+  "penalty": null,
+  "related": [
+    "a58"
+  ],
+  "src": "Act p. 301",
+  "flag": null
+}

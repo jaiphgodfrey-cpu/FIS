@@ -1,0 +1,31 @@
+{
+  "id": "a32",
+  "law": "Forest Act",
+  "ref": "ss. 32, 33, 40",
+  "title": "Village land forest reserves",
+  "scen": [
+    "reserve",
+    "permit",
+    "farm"
+  ],
+  "rule": "A village council may declare an area of village land to be a village land forest reserve, either by declaration alone or by gazetting.",
+  "points": [
+    "Two kinds: a declared village land forest reserve, or a gazetted one (s.32(1)). Reserves already existing at commencement are deemed declared (s.32(2)).",
+    "May be owned and managed by one or more villages, across one or more local authorities (s.32(3)).",
+    "A village council starts the process by resolution: declaring the area, applying to the Director (through the local authority) to have it gazetted, or negotiating a joint management agreement (s.33(1)).",
+    "Villagers' basic rights and duties, unless an agreement says otherwise: the right to exercise existing rights to enter, occupy, use and harvest forest produce jointly with other villagers, sustainably and under any village forest plan, by-laws or customary practice; the duty to comply with licence conditions, help implement the management plan (including communal work), and help enforce the rules (s.40)."
+  ],
+  "checks": [
+    "Declared or gazetted",
+    "Which village(s) and local authority",
+    "Is there a joint management agreement",
+    "Villager's right or duty in question"
+  ],
+  "penalty": null,
+  "related": [
+    "a47",
+    "g6"
+  ],
+  "src": "Act pp. 221 to 235",
+  "flag": "ss. 34 to 39 (gazetting steps, national/local authority reserve consent, village forest management areas) are summarised only via s.40's cross-reference; not separately carded yet."
+}

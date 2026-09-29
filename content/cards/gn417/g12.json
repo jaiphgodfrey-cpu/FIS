@@ -1,0 +1,20 @@
+{
+  "id": "g12",
+  "law": "Regulations 2019",
+  "ref": "reg 8A",
+  "title": "National Forest Advisory Committee and quotas",
+  "scen": [
+    "licence"
+  ],
+  "rule": "The National Forest Advisory Committee advises the Minister each year on harvesting quotas in national and local authority reserves.",
+  "points": [
+    "It also advises on how quotas for logs, timber, withies, poles, charcoal and other produce are allocated.",
+    "It advises on the available allowable cut and evaluates it each year.",
+    "It may suggest revisions to the harvesting regulations."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [],
+  "src": "GN 657 of 2019",
+  "flag": null
+}

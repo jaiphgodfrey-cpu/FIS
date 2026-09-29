@@ -1,0 +1,24 @@
+{
+  "id": "r7",
+  "law": "Regulations 2004",
+  "ref": "regs 14(4)(b), 55, 56",
+  "title": "Catchment areas",
+  "scen": [
+    "catch",
+    "farm"
+  ],
+  "rule": "No one may cut, fell, damage or remove trees or forest produce from catchment areas on general land. More broadly, harvesting, grazing, cultivation and mining are banned in areas of catchment or watershed value, except for forest management.",
+  "points": [
+    "Having timber, mineral or agricultural produce presumed illegally obtained from a catchment forest is an offence against the Regulations.",
+    "The produce is confiscated and becomes Government property."
+  ],
+  "checks": [
+    "Is the site a catchment or watershed area",
+    "Is it part of forest management",
+    "Where the produce came from"
+  ],
+  "penalty": null,
+  "related": [],
+  "src": "GN 153 pp. 12 and 37",
+  "flag": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a57",
+  "law": "Forest Act",
+  "ref": "s. 57",
+  "title": "Stop order to a permit holder",
+  "scen": [
+    "permit",
+    "reserve"
+  ],
+  "rule": "If a permit breach involves cutting, felling or removing trees or produce for sale, trade or commercial use, the Director may issue a stop order.",
+  "points": [
+    "Served on the holder and on anyone acting for or with the holder's knowledge.",
+    "They must stop at once. The holder must tell employees and contractors.",
+    "An appeal to the High Court is possible, but the order stays in force until it is decided."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a25",
+    "a56"
+  ],
+  "src": "Act p. 263",
+  "flag": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "r3",
+  "law": "Regulations 2004",
+  "ref": "reg 7",
+  "title": "Marking stumps and logs",
+  "scen": [
+    "licence",
+    "move"
+  ],
+  "rule": "Every licensed feller must mark each stump and each cut log.",
+  "points": [
+    "Stump: the licensee's registered property mark and a stump number.",
+    "Both ends of each log: the property mark, tree number and log number.",
+    "Stump numbers run from one in order. Log numbers run from one for each stump, butt log first."
+  ],
+  "checks": [
+    "Stump marks",
+    "Log end marks",
+    "Numbering",
+    "Match with the licence"
+  ],
+  "penalty": null,
+  "related": [],
+  "src": "GN 153 p. 10",
+  "flag": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "a2",
+  "law": "Forest Act",
+  "ref": "s. 2",
+  "title": "Key definitions",
+  "scen": [
+    "terms",
+    "powers"
+  ],
+  "rule": "The words that decide most cases.",
+  "points": [
+    "Authorised officer: any forest officer, or another officer or person authorised in writing by the Minister or Director.",
+    "Forest produce: anything produced by or growing in a forest, including trees, timber, poles, charcoal, firewood, bark, gums and honey.",
+    "Tree: includes palms, bamboos, shrubs, bushes, seedlings and re-growth of any age.",
+    "Reserved tree: only a tree reserved by Gazette order under s. 65.",
+    "Permit: only a permit issued under Part VI.",
+    "General land: as defined in the Land Act.",
+    "Sensitive area: a catchment area, an area of high biodiversity, or a mangrove area.",
+    "Plantation: a planted and managed forest of at least five hectares.",
+    "Licence and unreserved land are not defined in the Act."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "g1"
+  ],
+  "src": "Act pp. 174 to 179",
+  "flag": null
+}

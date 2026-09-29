@@ -1,0 +1,22 @@
+{
+  "id": "a63",
+  "law": "Forest Act",
+  "ref": "s. 63",
+  "title": "Orders restricting movement of timber",
+  "scen": [
+    "move"
+  ],
+  "rule": "The Minister may by Gazette order ban or restrict the movement of timber within or out of Tanzania for a set period. Any forestry officer may then prohibit movement under the order.",
+  "points": [],
+  "checks": [
+    "Is a Gazette order in force",
+    "Which timber, quantity and period it covers"
+  ],
+  "penalty": null,
+  "related": [
+    "r6",
+    "g8"
+  ],
+  "src": "Act p. 268",
+  "flag": null
+}

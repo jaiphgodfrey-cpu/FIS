@@ -1,0 +1,22 @@
+{
+  "id": "g4",
+  "law": "Regulations 2019",
+  "ref": "regs 11 and 12",
+  "title": "Dealer records and cancelling an allocation",
+  "scen": [
+    "sell",
+    "penal"
+  ],
+  "rule": "Registered dealers must keep records and must not trade with an unlicensed producer. The Committee may cancel an allocation.",
+  "points": [
+    "Keep records of sources, allocation certificates, licences and transit passes.",
+    "An authorised officer may enter premises at any time to inspect storage, wholesale or retail trade.",
+    "Cancellation needs evidence of failure to meet conditions, or public interest, and the holder gets a hearing.",
+    "Appeal against cancellation: to the Minister within 30 days, then administrative review in the High Court."
+  ],
+  "checks": [],
+  "penalty": "Fine of TSh 1,000,000 to 2,000,000, or three times the value of the produce if greater, or 1 to 2 years in prison, or both.",
+  "related": [],
+  "src": "GN 417 p. 9 and p. 13",
+  "flag": null
+}

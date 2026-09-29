@@ -1,0 +1,37 @@
+{
+  "id": "a26",
+  "law": "Forest Act",
+  "ref": "s. 26",
+  "title": "Banned acts in a forest reserve",
+  "scen": [
+    "reserve",
+    "permit"
+  ],
+  "rule": "In a national or local authority forest reserve, none of these acts may be done without a concession, licence or permit. People exercising a determined existing right are excepted.",
+  "points": [
+    "Cutting, felling, digging up or removing any tree.",
+    "Removing protected plants or other forest produce.",
+    "Entering for tourism or camping.",
+    "Taking rock, stones, sand, shells or soil.",
+    "Mining.",
+    "Living on or occupying land.",
+    "Clearing or cultivating land.",
+    "Cutting, burning or damaging vegetation.",
+    "Planting crops or trees.",
+    "Opening saw-pits, building structures, roads, paths or bridges.",
+    "Letting livestock graze.",
+    "Carrying traps, nets, guns, poison or explosives.",
+    "Any other act banned by regulations, reserve rules or by-laws."
+  ],
+  "checks": [],
+  "penalty": "See s. 84.",
+  "related": [
+    "a84",
+    "a49",
+    "r1",
+    "a67",
+    "a68"
+  ],
+  "src": "Act pp. 213 to 214",
+  "flag": null
+}

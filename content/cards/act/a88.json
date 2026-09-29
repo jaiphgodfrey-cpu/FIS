@@ -1,0 +1,23 @@
+{
+  "id": "a88",
+  "law": "Forest Act",
+  "ref": "s. 88",
+  "title": "Possession of illegal forest produce",
+  "scen": [
+    "possess",
+    "sell",
+    "penal"
+  ],
+  "rule": "Taking, receiving or being found with forest produce linked to an offence is an offence, unless the person can account for it or show they got it innocently.",
+  "points": [
+    "The burden of proof is on the accused."
+  ],
+  "checks": [],
+  "penalty": "Fine of TSh 100,000 to 5,000,000, or up to 2 years in prison, or both.",
+  "related": [
+    "a89",
+    "r5"
+  ],
+  "src": "Act p. 283",
+  "flag": null
+}

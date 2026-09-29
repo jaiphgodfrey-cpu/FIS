@@ -1,0 +1,33 @@
+{
+  "id": "a11",
+  "law": "Forest Act",
+  "ref": "ss. 11 to 16",
+  "title": "Forest management plans",
+  "scen": [
+    "permit",
+    "reserve",
+    "licence"
+  ],
+  "rule": "A forest reserve or private forest must be managed under a forest management plan, and permits and activities inside a reserve must be consistent with it.",
+  "points": [
+    "Four kinds: outline, detailed, village, and private forest management plans (s.11(1)).",
+    "A detailed plan defines management objectives for sustainable use of the forest's resources (s.11(2)) and may cover biological and cultural resources, economic and social objectives, local user zones, existing user rights, and proposed fees and charges (s.11(3)).",
+    "A new national or local authority reserve is managed under an outline plan until a detailed plan is approved (s.12(3)).",
+    "A draft detailed plan must be open for public inspection and comment for at least 60 days at the District Council and village council offices, with village assembly meetings held to explain it (s.13(2) to (3)).",
+    "Once adopted, the Director, the local authority, or the private/NGO manager must manage the forest in accordance with the adopted plan (s.13(4))."
+  ],
+  "checks": [
+    "Is there an approved plan for this reserve",
+    "Which kind of plan applies",
+    "Was the 60-day consultation done",
+    "Does the activity or permit match the plan"
+  ],
+  "penalty": null,
+  "related": [
+    "a49",
+    "a51",
+    "g2"
+  ],
+  "src": "Act pp. 186 to 193",
+  "flag": null
+}

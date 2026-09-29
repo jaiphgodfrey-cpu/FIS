@@ -1,0 +1,48 @@
+{
+  "id": "gn-1132-2011",
+  "citation": "Government Notice No. 1132 of 2011 — The Forest (Amendment) Regulations, 2011 (made under s. 106(1) of the Forest Act, Cap. 323)",
+  "renumberingNote": "Cites s. 106(1) as printed at publication (Act No. 14 of 2002 numbering). In Cap. 323 R.E. 2023 the regulation-making power appears at s. 107 (see card a107). The as-printed citation is kept; it is not modernised.",
+  "kind": "amendment-regulations",
+  "chain": "A",
+  "amends": "gn-153-2004",
+  "published": "2011-12-09",
+  "commencement": null,
+  "commencementNote": "No express commencement provision; date of publication recorded, commencement not asserted.",
+  "status": "in-force-as-amended",
+  "signature": "Ezekiel M. Maige, Minister for Natural Resources and Tourism, Dar es Salaam, 11th November 2011",
+  "provisionsFile": "provisions.json",
+  "events": [
+    {
+      "id": "e1",
+      "type": "replace-part-title",
+      "target": "gn-153-2004/part-vii",
+      "note": "Substitutes the title of PART VII with 'CLASSIFICATION, FEE RATES FOR PERMITS, LICENCES FOR FELLING TREES, COLLECTING FOREST PRODUCE AND OTHER SERVICES'."
+    },
+    {
+      "id": "e2",
+      "type": "insert-regulation",
+      "target": "gn-153-2004/reg-29",
+      "position": "after",
+      "newProvisionId": "gn-1132-2011/reg-3",
+      "resultingProvisionId": "gn-153-2004/reg-29A",
+      "note": "Inserts new regulation 29A (classification of tree species from non-plantation forests per Part I of the Fourteenth Schedule)."
+    },
+    {
+      "id": "e3",
+      "type": "replace-schedule",
+      "target": "gn-153-2004/schedule-8",
+      "replacementProvisionId": "gn-1132-2011/schedule-8-of-gn1132"
+    },
+    {
+      "id": "e4",
+      "type": "replace-schedule",
+      "target": "gn-153-2004/schedule-14",
+      "replacementProvisionId": "gn-1132-2011/schedule-14-of-gn1132"
+    }
+  ],
+  "verification": {
+    "status": "unverified-degraded-ocr",
+    "needsCheckAgainst": "printed Gazette GN No. 1132 of 9/12/2011",
+    "note": "Retrieved from a low-quality OCR of a poor scan (TanzLII). The notice header prints GN No. 1132 but the page running heads print 'GN. No. 432' — a discrepancy in the source copy itself. This instrument was MISSING from the PWA v0.6 amendment chain and has been added to the repo."
+  }
+}

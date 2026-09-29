@@ -1,0 +1,25 @@
+{
+  "id": "a91",
+  "law": "Forest Act",
+  "ref": "s. 91",
+  "title": "Offences in connection with fires",
+  "scen": [
+    "fire",
+    "penal"
+  ],
+  "rule": "Without lawful authority or excuse (burden on the accused), lighting, rekindling or adding fuel to a fire, leaving a lit fire unattended before it is fully out, or breaching a lawful fire order under Part IX, is an offence.",
+  "points": [
+    "Wilfully and unlawfully setting fire to a forest reserve, plantation, standing trees, saplings or shrubs is a separate, more serious offence, punished under s.321 of the Penal Code (arson) rather than this Act's own penalty."
+  ],
+  "checks": [
+    "Lawful authority or excuse",
+    "Was the fire left unattended before fully out",
+    "Wilful arson vs. negligent/unlawful lighting"
+  ],
+  "penalty": "s.91(1): fine of TSh 50,000 to 1,000,000, or up to 1 year in prison, or both. s.91(2) (wilful arson): penalty under s.321 of the Penal Code, Cap. 16.",
+  "related": [
+    "a70"
+  ],
+  "src": "Act pp. 284 to 285",
+  "flag": null
+}

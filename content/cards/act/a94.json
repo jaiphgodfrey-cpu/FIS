@@ -1,0 +1,24 @@
+{
+  "id": "a94",
+  "law": "Forest Act",
+  "ref": "s. 94",
+  "title": "Custody of seized produce",
+  "scen": [
+    "powers",
+    "possess"
+  ],
+  "rule": "Seized items go to the nearest police station, or to the nearest reserve manager if that is not possible.",
+  "points": [
+    "Report to the senior police officer for the area.",
+    "Items are kept until prosecuted, compounded or a decision not to prosecute.",
+    "Perishable items may be sold or destroyed.",
+    "Property abandoned for 30 days may be sold, costs covered, and the balance paid to the Fund."
+  ],
+  "checks": [],
+  "penalty": null,
+  "related": [
+    "a93"
+  ],
+  "src": "Act p. 287",
+  "flag": "The section refers to seizure under ss. 88 or 90, while the seizure power is in s. 93. Ask how it is applied."
+}

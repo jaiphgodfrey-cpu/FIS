@@ -1,0 +1,21 @@
+{
+  "id": "g6",
+  "law": "Regulations 2019",
+  "ref": "reg 14",
+  "title": "Household use from a private farm",
+  "scen": [
+    "private"
+  ],
+  "rule": "Felling trees for logs, timber, withies, poles or charcoal from a private farm for household use needs a permit from the Village or Mtaa Executive Officer.",
+  "points": [],
+  "checks": [
+    "Permit from the Village or Mtaa Executive Officer",
+    "The quantity is for household use"
+  ],
+  "penalty": null,
+  "related": [
+    "g5"
+  ],
+  "src": "GN 417 p. 10",
+  "flag": null
+}

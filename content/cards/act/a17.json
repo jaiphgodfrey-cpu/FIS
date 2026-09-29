@@ -1,0 +1,29 @@
+{
+  "id": "a17",
+  "law": "Forest Act",
+  "ref": "s. 17",
+  "title": "Removing a dangerous tree",
+  "scen": [
+    "danger"
+  ],
+  "rule": "An authorised officer may enter land and have a tree cut down or removed if it is diseased or is a danger to people or nearby property.",
+  "points": [
+    "Applies to any tree, reserved or not, inside a reserve or not.",
+    "The officer may act alone or at the occupier's request, once satisfied of the facts.",
+    "On residential, commercial or industrial land the officer's employer may charge the occupier a reasonable fee.",
+    "Anyone who caused the tree's condition stays liable in civil or criminal law."
+  ],
+  "checks": [
+    "What the danger is and who it threatens",
+    "Who occupies the land",
+    "Evidence of the condition and its cause",
+    "Your written authorisation"
+  ],
+  "penalty": null,
+  "related": [
+    "a65",
+    "a2"
+  ],
+  "src": "Act p. 193",
+  "flag": null
+}

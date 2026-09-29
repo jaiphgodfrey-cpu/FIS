@@ -1,0 +1,27 @@
+{
+  "id": "a78",
+  "law": "Forest Act",
+  "ref": "s. 78",
+  "title": "Power to set and collect royalties",
+  "scen": [
+    "licence",
+    "sell"
+  ],
+  "rule": "A permit to harvest or extract forest produce from a forest reserve is granted on payment of royalties, at rates the Minister determines and prescribes.",
+  "points": [
+    "This is the legal basis for the log-class royalty rates in the Royalties tab — the Act creates the power, the rate table itself (currently GN 132 of 2025) is set by regulation.",
+    "Factors the Minister must weigh in setting a royalty rate: the produce's potential market value; how accessible it is; the enterprise's profitability, taking expenses and capital investment into account; sustainability of the harvest; and other prescribed factors (s.78(2)).",
+    "No royalty is required for produce harvested within a village forest reserve or a community forest reserve, by a resident of the village or a member of the Group (as applicable) -- unless an agreement under which they manage the reserve specifically requires one (s.78(3))."
+  ],
+  "checks": [
+    "Which produce and rate applies",
+    "Is it village- or community-forest-reserve own-use produce by a resident/Group member (royalty may not apply)"
+  ],
+  "penalty": null,
+  "related": [
+    "a77",
+    "g5"
+  ],
+  "src": "Act p. 277",
+  "flag": null
+}

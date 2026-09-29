@@ -1,0 +1,30 @@
+{
+  "id": "a66",
+  "law": "Forest Act",
+  "ref": "s. 66",
+  "title": "Directives on cutting indigenous trees",
+  "scen": [
+    "private",
+    "farm"
+  ],
+  "rule": "The Minister may direct the occupier of land held under a right of occupancy to stop cutting indigenous trees, to cut in a set way, or to replant.",
+  "points": [
+    "Reasons: fire, climate or soil erosion; water supply; natural regeneration; loss of biodiversity; general environmental damage; timber shortage.",
+    "A directive can cover the method and route of cutting, a ban or restriction, and afforestation.",
+    "If the occupier fails to replant in time, the Minister may have it done and the cost is a debt owed by the occupier.",
+    "The occupier may appeal to the High Court."
+  ],
+  "checks": [
+    "Is there a directive for this land",
+    "Who is the occupier",
+    "What it requires"
+  ],
+  "penalty": null,
+  "related": [
+    "a65",
+    "a85",
+    "a70"
+  ],
+  "src": "Act pp. 270 to 271",
+  "flag": null
+}
