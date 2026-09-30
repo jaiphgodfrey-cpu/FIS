@@ -48,6 +48,18 @@
     }
   },
   {
+    "id": "src-gn-195-2017",
+    "citation": "Government Notice No. 195 of 2017 — The Forest (Amendment) Regulations, 2017",
+    "kind": "amendment-regulations",
+    "parent": "src-gn-153-2004",
+    "note": "Amends the Fourteenth Schedule by deleting Item 14 of Part II A and substituting new fees for fully processed forest products. Superseded by GN 255 of 2017, which replaced the whole Fourteenth Schedule. THIS INSTRUMENT WAS MISSING FROM THE PWA v0.6 AMENDMENT CHAIN and was added in the repo (0.7-repo).",
+    "instrumentId": "gn-195-2017",
+    "verification": {
+      "status": "unverified-transcript",
+      "needsCheckAgainst": "printed Gazette of 5/5/2017, GN No. 195"
+    }
+  },
+  {
     "id": "src-gn-255-2017",
     "citation": "Government Notice No. 255 of 2017 — The Forest (Amendments) Regulations, 2017",
     "kind": "amendment-regulations",
@@ -68,7 +80,7 @@
     "instrumentId": "gn-59-2022",
     "verification": {
       "status": "verified-against-official-pdf",
-      "needsCheckAgainst": "printed Gazette Vol. 93 No. 15 of 28/1/2022"
+      "needsCheckAgainst": "printed Gazette of 28/1/2022, GN No. 59"
     }
   },
   {
@@ -119,4 +131,4 @@
       "needsCheckAgainst": "printed Gazette GN No. 255 of 2023"
     }
   }
-]
+    ]
