@@ -9,22 +9,15 @@
   "commencement": null,
   "commencementNote": "No express commencement provision; publication date recorded, commencement not asserted.",
   "status": "superseded",
-  "supersededBy": [
-    "gn-255-2017"
-  ],
+  "supersededBy": ["gn-255-2017"],
   "signature": "Jumanne A. Maghembe, Minister for Natural Resources and Tourism, Dodoma, 27th April, 2017",
   "provisionsFile": "provisions.json",
   "events": [
-    {
-      "id": "e1",
-      "type": "replace-schedule-item",
-      "target": "gn-153-2004/schedule-14/part-2-a/item-14",
-      "replacementProvisionId": "gn-195-2017/item-14-of-schedule-14"
-    }
+    { "id": "e1", "type": "replace-schedule-item", "target": "gn-153-2004/schedule-14/part-2-a/item-14", "replacementProvisionId": "gn-195-2017/item-14-of-schedule-14" }
   ],
   "verification": {
-    "status": "unverified-transcript",
+    "status": "verified-against-official-pdf",
     "needsCheckAgainst": "printed Gazette of 5/5/2017, GN No. 195",
-    "note": "Source: the official Gazette publication document uploaded by the maintainer (file name follows the TanzLII publication-document naming). This transcript was OCR-extracted, not taken from the text layer, because the extraction environment could not read the text layer; it is held unverified pending the maintainer's automated comparison against the text layer. The text is complete, including the signature block (Dodoma, 27th April, 2017, Jumanne A. Maghembe). This instrument was missing from the PWA v0.6 amendment chain and was added in the repo from a primary source located and reviewed by the maintainer. GN 255 of 2017 later replaced the whole Fourteenth Schedule, superseding this amendment."
+    "note": "Source: the official Gazette publication document uploaded by the maintainer (file name follows the TanzLII publication-document naming). This transcript was OCR-extracted, not taken from the text layer, because the extraction environment could not read the text layer; the maintainer's automated token comparison against the text layer of the official publication PDF has since been run and was clean, with no corrections required. The text is complete, including the signature block (Dodoma, 27th April, 2017, Jumanne A. Maghembe). This instrument was missing from the PWA v0.6 amendment chain and was added in the repo from a primary source located and reviewed by the maintainer. GN 255 of 2017 later replaced the whole Fourteenth Schedule, superseding this amendment."
   }
 }
