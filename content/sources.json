@@ -55,7 +55,7 @@
     "note": "Amends the Fourteenth Schedule by deleting Item 14 of Part II A and substituting new fees for fully processed forest products. Superseded by GN 255 of 2017, which replaced the whole Fourteenth Schedule. THIS INSTRUMENT WAS MISSING FROM THE PWA v0.6 AMENDMENT CHAIN and was added in the repo (0.7-repo).",
     "instrumentId": "gn-195-2017",
     "verification": {
-      "status": "unverified-transcript",
+      "status": "verified-against-official-pdf",
       "needsCheckAgainst": "printed Gazette of 5/5/2017, GN No. 195"
     }
   },
@@ -131,4 +131,4 @@
       "needsCheckAgainst": "printed Gazette GN No. 255 of 2023"
     }
   }
-    ]
+]
